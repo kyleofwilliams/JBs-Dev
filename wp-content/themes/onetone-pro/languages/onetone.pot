@@ -1,0 +1,7495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onetone pro 2.5.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-28 14:12+0800\n"
+"PO-Revision-Date: 2016-06-28 14:13+0800\n"
+"Last-Translator: shijun quan <support@mageewp.com>\n"
+"Language-Team: Magee <support@mageewp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/class-options-framework-admin.php:91
+#: admin/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:291
+msgid "Options saved."
+msgstr ""
+
+#: admin/includes/class-options-interface.php:132
+msgid "Save"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:65
+#: admin/includes/class-options-media-uploader.php:118
+#: lib/magee-shortcodes-pro/inc/core.php:897
+#: lib/magee-shortcodes-pro/inc/core.php:928
+#: lib/magee-shortcodes-pro/inc/core.php:1079
+#: lib/magee-shortcodes-pro/inc/core.php:1300
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:67
+#: admin/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:320
+msgid "No Repeat"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:321
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:322
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:323
+msgid "Repeat All"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:335
+#: lib/magee-shortcodes-pro/inc/options.php:1359
+#: lib/magee-shortcodes-pro/inc/options.php:4334
+msgid "Top Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:336
+#: lib/magee-shortcodes-pro/inc/options.php:1360
+#: lib/magee-shortcodes-pro/inc/options.php:4335
+msgid "Top Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:337
+#: lib/magee-shortcodes-pro/inc/options.php:1361
+#: lib/magee-shortcodes-pro/inc/options.php:4336
+msgid "Top Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:338
+msgid "Middle Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:339
+msgid "Middle Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:340
+msgid "Middle Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:341
+#: lib/magee-shortcodes-pro/inc/options.php:1365
+#: lib/magee-shortcodes-pro/inc/options.php:4340
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:342
+#: lib/magee-shortcodes-pro/inc/options.php:1366
+#: lib/magee-shortcodes-pro/inc/options.php:4341
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:343
+#: lib/magee-shortcodes-pro/inc/options.php:1367
+#: lib/magee-shortcodes-pro/inc/options.php:4342
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:355
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:356
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:428
+#: lib/magee-shortcodes-pro/inc/options.php:507
+#: lib/magee-shortcodes-pro/inc/options.php:1532
+#: lib/magee-shortcodes-pro/inc/options.php:3954
+#: lib/magee-shortcodes-pro/inc/options.php:4584
+#: lib/magee-shortcodes-pro/inc/options.php:4815
+msgid "Normal"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:429
+msgid "Italic"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:430
+msgid "Bold"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:431
+msgid "Bold Italic"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No comment"
+msgstr ""
+
+#: comments.php:11
+msgid "Has one comment"
+msgstr ""
+
+#: comments.php:11 content-article.php:26 content.php:31 single.php:52
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: comments.php:11
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: comments.php:12
+msgid "You can "
+msgstr ""
+
+#: comments.php:12
+msgid "leave a reply"
+msgstr ""
+
+#: comments.php:12
+msgid " or "
+msgstr ""
+
+#: comments.php:12
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:12
+msgid "this post."
+msgstr ""
+
+#: comments.php:24
+msgid "Comment pages"
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:65
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:73 includes/shortcodes.php:533 includes/shortcodes.php:551
+#: lib/magee-shortcodes-pro/inc/core.php:1571
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:100
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:101
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:151
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:152
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:198
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:199
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:257
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:260
+msgid "Message"
+msgstr ""
+
+#: comments.php:77 includes/shortcodes.php:549
+#: lib/magee-shortcodes-pro/inc/core.php:1565
+#: lib/magee-shortcodes-pro/inc/options.php:3099
+#: lib/magee-shortcodes-pro/inc/options.php:4822
+#: lib/magee-shortcodes-pro/inc/options.php:5278
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:83
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:84
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:135
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:136
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:182
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:183
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:232
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:235
+#: woocommerce/single-product-reviews.php:45
+msgid "Name"
+msgstr ""
+
+#: comments.php:81 includes/shortcodes.php:550
+#: lib/magee-shortcodes-pro/inc/core.php:1568
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:88
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:140
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:187
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:242
+#: woocommerce/single-product-reviews.php:47
+msgid "Email"
+msgstr ""
+
+#: comments.php:85
+msgid "Website"
+msgstr ""
+
+#: content-article.php:26 content.php:31 single.php:52
+msgid "No comments yet"
+msgstr ""
+
+#: content-article.php:26 content.php:31 single.php:52
+msgid "1 comment"
+msgstr ""
+
+#: content-article.php:33 content-article3.php:42 content-search.php:27
+#: content.php:50 includes/shortcodes.php:905 includes/shortcodes.php:934
+#: lib/magee-shortcodes-pro/shortcodes/class-blog.php:287
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-portfolio.php:19
+#: lib/magee-shortcodes-pro/shortcodes/class-portfolio.php:235
+#: single-portfolio.php:97 single-portfolio.php:161
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: header-home.php:106 header-home.php:177 header.php:105 header.php:142
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/admin-options.php:81
+msgid "-- None --"
+msgstr ""
+
+#: includes/admin-options.php:82
+msgid "-- Default --"
+msgstr ""
+
+#: includes/admin-options.php:127 includes/admin-options.php:133
+#: includes/admin-options.php:140 includes/metabox-options.php:209
+#: includes/metabox-options.php:230 includes/metabox-options.php:240
+#: lib/magee-shortcodes-pro/inc/options.php:1305
+#: lib/magee-shortcodes-pro/inc/options.php:1436
+#: lib/magee-shortcodes-pro/inc/options.php:1446
+#: lib/magee-shortcodes-pro/inc/options.php:1456
+#: lib/magee-shortcodes-pro/inc/options.php:2803
+#: lib/magee-shortcodes-pro/inc/options.php:2846
+#: lib/magee-shortcodes-pro/inc/options.php:2910
+#: lib/magee-shortcodes-pro/inc/options.php:4123
+#: lib/magee-shortcodes-pro/inc/options.php:4575
+#: lib/magee-shortcodes-pro/inc/options.php:4635
+#: lib/magee-shortcodes-pro/inc/options.php:5062
+#: lib/magee-shortcodes-pro/inc/options.php:5072
+#: lib/magee-shortcodes-pro/inc/options.php:5082
+#: lib/magee-shortcodes-pro/inc/options.php:5144
+#: lib/magee-shortcodes-pro/inc/options.php:5154
+#: lib/magee-shortcodes-pro/inc/options.php:5164
+#: lib/magee-shortcodes-pro/inc/options.php:5225
+#: lib/magee-shortcodes-pro/inc/options.php:5235
+#: lib/magee-shortcodes-pro/inc/options.php:5245
+msgid "Yes"
+msgstr ""
+
+#: includes/admin-options.php:128 includes/admin-options.php:134
+#: includes/admin-options.php:139 includes/metabox-options.php:208
+#: includes/metabox-options.php:231 includes/metabox-options.php:241
+#: lib/magee-shortcodes-pro/inc/options.php:1304
+#: lib/magee-shortcodes-pro/inc/options.php:1437
+#: lib/magee-shortcodes-pro/inc/options.php:1447
+#: lib/magee-shortcodes-pro/inc/options.php:1457
+#: lib/magee-shortcodes-pro/inc/options.php:2802
+#: lib/magee-shortcodes-pro/inc/options.php:2845
+#: lib/magee-shortcodes-pro/inc/options.php:2911
+#: lib/magee-shortcodes-pro/inc/options.php:4122
+#: lib/magee-shortcodes-pro/inc/options.php:4576
+#: lib/magee-shortcodes-pro/inc/options.php:4636
+#: lib/magee-shortcodes-pro/inc/options.php:5063
+#: lib/magee-shortcodes-pro/inc/options.php:5073
+#: lib/magee-shortcodes-pro/inc/options.php:5083
+#: lib/magee-shortcodes-pro/inc/options.php:5145
+#: lib/magee-shortcodes-pro/inc/options.php:5155
+#: lib/magee-shortcodes-pro/inc/options.php:5165
+#: lib/magee-shortcodes-pro/inc/options.php:5226
+#: lib/magee-shortcodes-pro/inc/options.php:5236
+#: lib/magee-shortcodes-pro/inc/options.php:5246
+msgid "No"
+msgstr ""
+
+#: includes/admin-options.php:144 includes/admin-options.php:742
+#: includes/metabox-options.php:165 includes/metabox-options.php:229
+#: includes/metabox-options.php:239
+#: lib/magee-shortcodes-pro/inc/options.php:551
+msgid "Default"
+msgstr ""
+
+#: includes/admin-options.php:145 includes/admin-options.php:1705
+#: lib/magee-shortcodes-pro/inc/options.php:1067
+msgid "left"
+msgstr ""
+
+#: includes/admin-options.php:146 includes/admin-options.php:1707
+msgid "right"
+msgstr ""
+
+#: includes/admin-options.php:147
+msgid "center"
+msgstr ""
+
+#: includes/admin-options.php:151
+msgid "repeat"
+msgstr ""
+
+#: includes/admin-options.php:152
+msgid "repeat-x"
+msgstr ""
+
+#: includes/admin-options.php:153
+msgid "repeat-y"
+msgstr ""
+
+#: includes/admin-options.php:154
+msgid "no-repeat"
+msgstr ""
+
+#: includes/admin-options.php:159
+msgid "Blank"
+msgstr ""
+
+#: includes/admin-options.php:160
+msgid "Self"
+msgstr ""
+
+#: includes/admin-options.php:165
+msgid "top left"
+msgstr ""
+
+#: includes/admin-options.php:166
+msgid "top center"
+msgstr ""
+
+#: includes/admin-options.php:167
+msgid "top right"
+msgstr ""
+
+#: includes/admin-options.php:168
+msgid "center left"
+msgstr ""
+
+#: includes/admin-options.php:169
+msgid "center center"
+msgstr ""
+
+#: includes/admin-options.php:170
+msgid "center right"
+msgstr ""
+
+#: includes/admin-options.php:171
+msgid "bottom left"
+msgstr ""
+
+#: includes/admin-options.php:172
+msgid "bottom center"
+msgstr ""
+
+#: includes/admin-options.php:173
+msgid "bottom right"
+msgstr ""
+
+#: includes/admin-options.php:336
+msgid "Section 1 - Banner"
+msgstr ""
+
+#: includes/admin-options.php:337
+msgid "Section 2 - Slogan"
+msgstr ""
+
+#: includes/admin-options.php:338
+msgid "Section 3 - Service"
+msgstr ""
+
+#: includes/admin-options.php:339
+msgid "Section 4 - Gallery"
+msgstr ""
+
+#: includes/admin-options.php:340
+msgid "Section 5 - Team"
+msgstr ""
+
+#: includes/admin-options.php:341
+msgid "Section 6 - About"
+msgstr ""
+
+#: includes/admin-options.php:342
+msgid "Section 7 - Testimonial"
+msgstr ""
+
+#: includes/admin-options.php:343
+msgid "Section 8 - Custom"
+msgstr ""
+
+#: includes/admin-options.php:344
+msgid "Section 9 - Contact"
+msgstr ""
+
+#: includes/admin-options.php:345
+msgid "Section 10 - Portfolio"
+msgstr ""
+
+#: includes/admin-options.php:346
+msgid "Section 11 - Pricing"
+msgstr ""
+
+#: includes/admin-options.php:347
+msgid "Section 12 - Blog"
+msgstr ""
+
+#: includes/admin-options.php:348 includes/admin-options.php:349
+#: includes/admin-options.php:350
+#, php-format
+msgid "Section %s"
+msgstr ""
+
+#: includes/admin-options.php:362
+msgid "Home Page"
+msgstr ""
+
+#: includes/admin-options.php:369
+msgid "Home Page Header Overlay"
+msgstr ""
+
+#: includes/admin-options.php:370
+msgid "Choose to set home page header as overlay style."
+msgstr ""
+
+#: includes/admin-options.php:388
+msgid "HTML5 Video Background Options"
+msgstr ""
+
+#: includes/admin-options.php:397
+msgid "mp4 video url"
+msgstr ""
+
+#: includes/admin-options.php:397
+msgid "For Internet Explorer 9, Safari"
+msgstr ""
+
+#: includes/admin-options.php:398
+msgid "ogv video url"
+msgstr ""
+
+#: includes/admin-options.php:398 includes/admin-options.php:399
+msgid "For Google Chrome, Mozilla Firefox, Opera "
+msgstr ""
+
+#: includes/admin-options.php:399
+msgid "webm video url"
+msgstr ""
+
+#: includes/admin-options.php:400
+msgid "poster"
+msgstr ""
+
+#: includes/admin-options.php:400
+msgid ""
+"Displaying the image for browsers that don't support the HTML5 Video element."
+msgstr ""
+
+#: includes/admin-options.php:401
+msgid "Video Loop"
+msgstr ""
+
+#: includes/admin-options.php:402
+msgid "Video Volume"
+msgstr ""
+
+#: includes/admin-options.php:411
+msgid "YouTube Video Background Options"
+msgstr ""
+
+#: includes/admin-options.php:422
+msgid "YouTube ID for Video Background"
+msgstr ""
+
+#: includes/admin-options.php:424
+msgid "Insert the eleven-letter id here, not url."
+msgstr ""
+
+#: includes/admin-options.php:430
+msgid "Start Time"
+msgstr ""
+
+#: includes/admin-options.php:430
+msgid "Start to play."
+msgstr ""
+
+#: includes/admin-options.php:434
+msgid "Display Video Control Buttons."
+msgstr ""
+
+#: includes/admin-options.php:435
+msgid ""
+"Choose to display video controls at bottom of the section with video "
+"background."
+msgstr ""
+
+#: includes/admin-options.php:443
+msgid "Mute"
+msgstr ""
+
+#: includes/admin-options.php:452
+msgid "AutoPlay"
+msgstr ""
+
+#: includes/admin-options.php:461
+msgid "Loop"
+msgstr ""
+
+#: includes/admin-options.php:470
+msgid "Background Type"
+msgstr ""
+
+#: includes/admin-options.php:475
+msgid "Body Background"
+msgstr ""
+
+#: includes/admin-options.php:475 includes/admin-options.php:656
+msgid "Section Background"
+msgstr ""
+
+#: includes/admin-options.php:483
+msgid "Video Background Type"
+msgstr ""
+
+#: includes/admin-options.php:487
+msgid "YouTube Video"
+msgstr ""
+
+#: includes/admin-options.php:487
+msgid "HTML5 Video"
+msgstr ""
+
+#: includes/admin-options.php:494
+msgid "No video background"
+msgstr ""
+
+#: includes/admin-options.php:501
+msgid "Video Background Section"
+msgstr ""
+
+#: includes/admin-options.php:506
+msgid "Select a section to apply video background."
+msgstr ""
+
+#: includes/admin-options.php:511
+msgid "Display slider instead in section 1"
+msgstr ""
+
+#: includes/admin-options.php:515 includes/admin-options.php:3682
+#: includes/shortcodes.php:60 includes/shortcodes.php:67
+#: includes/shortcodes.php:84 includes/shortcodes.php:93
+#: includes/shortcodes.php:146 includes/shortcodes.php:151
+#: includes/shortcodes.php:164 includes/shortcodes.php:193
+#: lib/magee-shortcodes-pro/inc/options.php:881
+#: lib/magee-shortcodes-pro/inc/options.php:1017
+#: lib/magee-shortcodes-pro/inc/options.php:1338
+#: lib/magee-shortcodes-pro/inc/options.php:1875
+#: lib/magee-shortcodes-pro/inc/options.php:2633
+#: lib/magee-shortcodes-pro/inc/options.php:4024
+#: lib/magee-shortcodes-pro/inc/options.php:4065
+#: lib/magee-shortcodes-pro/inc/options.php:4099
+#: lib/magee-shortcodes-pro/inc/options.php:4167
+#: lib/magee-shortcodes-pro/inc/options.php:4283
+#: lib/magee-shortcodes-pro/inc/options.php:4786
+#: lib/magee-shortcodes-pro/inc/options.php:4978
+msgid "Content"
+msgstr ""
+
+#: includes/admin-options.php:515 includes/admin-options.php:3295
+#: lib/magee-shortcodes-pro/inc/options.php:4513
+#: lib/magee-shortcodes-pro/inc/options.php:4526
+msgid "Slider"
+msgstr ""
+
+#: includes/admin-options.php:516
+msgid "Choose to display default slider instead of section contents here."
+msgstr ""
+
+#: includes/admin-options.php:518
+msgid "Enable Animation"
+msgstr ""
+
+#: includes/admin-options.php:518
+msgid "Enable animation for default section content."
+msgstr ""
+
+#: includes/admin-options.php:525
+msgid "Sections Order"
+msgstr ""
+
+#: includes/admin-options.php:542
+#, php-format
+msgid "%s section"
+msgstr ""
+
+#: includes/admin-options.php:620
+msgid "Hide Section"
+msgstr ""
+
+#: includes/admin-options.php:625
+msgid "Hide this section on front page."
+msgstr ""
+
+#: includes/admin-options.php:629
+msgid "Section Title"
+msgstr ""
+
+#: includes/admin-options.php:634
+msgid ""
+"Insert title for this section. It would appear at the top of the section."
+msgstr ""
+
+#: includes/admin-options.php:639
+msgid "Menu Title"
+msgstr ""
+
+#: includes/admin-options.php:643
+msgid ""
+"Insert menu title for this section. This title would appear in the header "
+"menu. If leave it as blank, the link of this section would not be displayed "
+"in header menu."
+msgstr ""
+
+#: includes/admin-options.php:647
+msgid "Menu Slug"
+msgstr ""
+
+#: includes/admin-options.php:651
+msgid ""
+"The \"slug\" is the URL-friendly version of menu title. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens. If the menu title "
+"contains non-eng characters, you need to fill this form."
+msgstr ""
+
+#: includes/admin-options.php:661
+msgid "Set background color & background image for this section."
+msgstr ""
+
+#: includes/admin-options.php:664
+msgid "100% Width Background Image"
+msgstr ""
+
+#: includes/admin-options.php:673 includes/shortcodes.php:160
+msgid "Parallax Scrolling Background Image"
+msgstr ""
+
+#: includes/admin-options.php:679
+msgid "Choose to apply parallax scrolling effect for background image."
+msgstr ""
+
+#: includes/admin-options.php:683
+#: lib/magee-shortcodes-pro/inc/options.php:3451
+msgid "Full Width"
+msgstr ""
+
+#: includes/admin-options.php:693
+msgid "Section Css Class"
+msgstr ""
+
+#: includes/admin-options.php:698
+msgid "Set an aditional css class of this section."
+msgstr ""
+
+#: includes/admin-options.php:702 includes/shortcodes.php:163
+msgid "Section Padding"
+msgstr ""
+
+#: includes/admin-options.php:707
+msgid ""
+"Set padding for this section. In pixels (px), eg: 10px 20px 30px 0. These "
+"four numbers represent padding top/right/bottom/left."
+msgstr ""
+
+#: includes/admin-options.php:711
+#: lib/magee-shortcodes-pro/inc/options.php:2367
+msgid "Text Align"
+msgstr ""
+
+#: includes/admin-options.php:717
+msgid "Set content align for this section."
+msgstr ""
+
+#: includes/admin-options.php:721
+msgid "Section Title Typography"
+msgstr ""
+
+#: includes/admin-options.php:729
+msgid "Section Content Typography"
+msgstr ""
+
+#: includes/admin-options.php:737
+msgid "Section Content Model"
+msgstr ""
+
+#: includes/admin-options.php:742
+msgid "Custom"
+msgstr ""
+
+#: includes/admin-options.php:749 includes/shortcodes.php:162
+#: lib/magee-shortcodes-pro/inc/options.php:1184
+#: lib/magee-shortcodes-pro/inc/options.php:2356
+#: lib/magee-shortcodes-pro/inc/options.php:2472
+msgid "Font Color"
+msgstr ""
+
+#: includes/admin-options.php:758
+msgid "Section Subtitle"
+msgstr ""
+
+#: includes/admin-options.php:763
+msgid ""
+"Insert sub-title for this section. It would appear at the bottom of the "
+"section title."
+msgstr ""
+
+#: includes/admin-options.php:770 includes/admin-options.php:816
+#: includes/admin-options.php:1143 includes/admin-options.php:1270
+#: includes/shortcodes.php:76 includes/shortcodes.php:138
+#: lib/magee-shortcodes-pro/inc/options.php:587
+#: lib/magee-shortcodes-pro/inc/options.php:3679
+#: lib/magee-shortcodes-pro/inc/options.php:4001
+msgid "Button Text"
+msgstr ""
+
+#: includes/admin-options.php:777 includes/admin-options.php:823
+#: includes/admin-options.php:1278 includes/shortcodes.php:72
+#: includes/shortcodes.php:139 lib/magee-shortcodes-pro/inc/options.php:3685
+msgid "Button Link"
+msgstr ""
+
+#: includes/admin-options.php:784 includes/admin-options.php:830
+#: lib/magee-shortcodes-pro/inc/options.php:578
+msgid "Button Target"
+msgstr ""
+
+#: includes/admin-options.php:796 includes/admin-options.php:1662
+msgid "Social Icon"
+msgstr ""
+
+#: includes/admin-options.php:803 includes/admin-options.php:1672
+msgid "Social Icon Link"
+msgstr ""
+
+#: includes/admin-options.php:808
+msgid "Using Fontawsome Icon."
+msgstr ""
+
+#: includes/admin-options.php:839 includes/shortcodes.php:183
+msgid "Description"
+msgstr ""
+
+#: includes/admin-options.php:855
+#, php-format
+msgid "Service Icon %d"
+msgstr ""
+
+#: includes/admin-options.php:862
+#, php-format
+msgid "Service Image %d"
+msgstr ""
+
+#: includes/admin-options.php:869
+#, php-format
+msgid "Service Title %d"
+msgstr ""
+
+#: includes/admin-options.php:876
+#, php-format
+msgid "Title Link %d"
+msgstr ""
+
+#: includes/admin-options.php:884 includes/admin-options.php:934
+#, php-format
+msgid "Link Target %d"
+msgstr ""
+
+#: includes/admin-options.php:893
+#, php-format
+msgid "Service Description %d"
+msgstr ""
+
+#: includes/admin-options.php:918
+#, php-format
+msgid "Image %d"
+msgstr ""
+
+#: includes/admin-options.php:926 includes/admin-options.php:981
+#, php-format
+msgid "Link %d"
+msgstr ""
+
+#: includes/admin-options.php:962 includes/admin-options.php:1087
+#: includes/admin-options.php:1157 includes/admin-options.php:1304
+#: includes/shortcodes.php:125 lib/magee-shortcodes-pro/inc/options.php:661
+#: lib/magee-shortcodes-pro/inc/options.php:3456
+#: lib/magee-shortcodes-pro/inc/options.php:3614
+#: lib/magee-shortcodes-pro/inc/options.php:3769
+#: lib/magee-shortcodes-pro/inc/options.php:4883
+msgid "Columns"
+msgstr ""
+
+#: includes/admin-options.php:973 includes/admin-options.php:1101
+#, php-format
+msgid "Avatar %d"
+msgstr ""
+
+#: includes/admin-options.php:988 includes/admin-options.php:1109
+#, php-format
+msgid "Name %d"
+msgstr ""
+
+#: includes/admin-options.php:995 includes/admin-options.php:1116
+#, php-format
+msgid "Byline %d"
+msgstr ""
+
+#: includes/admin-options.php:1002 includes/admin-options.php:1123
+#, php-format
+msgid "Description %d"
+msgstr ""
+
+#: includes/admin-options.php:1013
+#, php-format
+msgid "Social Icon %d - %d"
+msgstr ""
+
+#: includes/admin-options.php:1021
+#, php-format
+msgid "Social Icon Link %d - %d"
+msgstr ""
+
+#: includes/admin-options.php:1037 includes/admin-options.php:1566
+msgid "Left Content"
+msgstr ""
+
+#: includes/admin-options.php:1046 includes/admin-options.php:1583
+msgid "Right Content"
+msgstr ""
+
+#: includes/admin-options.php:1135
+msgid "Your E-mail"
+msgstr ""
+
+#: includes/admin-options.php:1167 includes/admin-options.php:1313
+msgid "Posts Num"
+msgstr ""
+
+#: includes/admin-options.php:1197 includes/shortcodes.php:137
+#: lib/magee-shortcodes-pro/inc/options.php:3703
+msgid "Featured"
+msgstr ""
+
+#: includes/admin-options.php:1197 includes/admin-options.php:1206
+#: includes/admin-options.php:1214 includes/admin-options.php:1223
+#: includes/admin-options.php:1232 includes/admin-options.php:1240
+#: includes/admin-options.php:1249 includes/admin-options.php:1260
+#: includes/admin-options.php:1270 includes/admin-options.php:1278
+#: includes/admin-options.php:1286
+#, php-format
+msgid "(Item %d)"
+msgstr ""
+
+#: includes/admin-options.php:1206
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: includes/admin-options.php:1214
+msgid "Upload Image Icon"
+msgstr ""
+
+#: includes/admin-options.php:1223
+msgid "Pricing Box Title"
+msgstr ""
+
+#: includes/admin-options.php:1232 includes/shortcodes.php:133
+#: lib/magee-shortcodes-pro/inc/options.php:3667
+msgid "Currency"
+msgstr ""
+
+#: includes/admin-options.php:1240 includes/shortcodes.php:134
+#: lib/magee-shortcodes-pro/inc/options.php:3661
+msgid "Price"
+msgstr ""
+
+#: includes/admin-options.php:1249
+#: lib/magee-shortcodes-pro/inc/options.php:3673
+msgid "Unit"
+msgstr ""
+
+#: includes/admin-options.php:1260
+#: lib/magee-shortcodes-pro/inc/options.php:3735
+msgid "Features"
+msgstr ""
+
+#: includes/admin-options.php:1286
+msgid "Button Link Target"
+msgstr ""
+
+#: includes/admin-options.php:1326
+#: lib/magee-shortcodes-pro/inc/options.php:4432
+msgid "Section Content"
+msgstr ""
+
+#: includes/admin-options.php:1355
+msgid "General Options"
+msgstr ""
+
+#: includes/admin-options.php:1361
+msgid "Favicon"
+msgstr ""
+
+#: includes/admin-options.php:1362
+#, php-format
+msgid ""
+"An icon associated with a URL that is variously displayed, as in a browser's "
+"address bar or next to the site name in a bookmark list. Learn more about <a "
+"href=\"%s\" target=\"_blank\">Favicon</a>"
+msgstr ""
+
+#: includes/admin-options.php:1369
+msgid "Back to Top Button"
+msgstr ""
+
+#: includes/admin-options.php:1374
+msgid "Show"
+msgstr ""
+
+#: includes/admin-options.php:1374
+msgid "Hide"
+msgstr ""
+
+#: includes/admin-options.php:1379
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin-options.php:1380
+msgid ""
+"The following css code will add to the header before the closing &lt;/"
+"head&gt; tag."
+msgstr ""
+
+#: includes/admin-options.php:1387
+msgid "Tracking"
+msgstr ""
+
+#: includes/admin-options.php:1399
+msgid "Tracking Code"
+msgstr ""
+
+#: includes/admin-options.php:1400
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the header template of your theme. Please put code inside script "
+"tags."
+msgstr ""
+
+#: includes/admin-options.php:1411
+msgid "Space before &lt;/head&gt;"
+msgstr ""
+
+#: includes/admin-options.php:1412
+msgid "Add code before the head tag."
+msgstr ""
+
+#: includes/admin-options.php:1423
+msgid "Space before &lt;/body&gt;"
+msgstr ""
+
+#: includes/admin-options.php:1424
+msgid "Add code before the body tag."
+msgstr ""
+
+#: includes/admin-options.php:1438
+msgid "Header"
+msgstr ""
+
+#: includes/admin-options.php:1446
+msgid "Header Background"
+msgstr ""
+
+#: includes/admin-options.php:1459
+msgid "Header Background Image"
+msgstr ""
+
+#: includes/admin-options.php:1460
+msgid "Background Image For Header Area"
+msgstr ""
+
+#: includes/admin-options.php:1470 includes/admin-options.php:2100
+#: includes/admin-options.php:3528 includes/shortcodes.php:159
+msgid "100% Background Image"
+msgstr ""
+
+#: includes/admin-options.php:1471
+msgid ""
+"Turn on to have the header background image display at 100% in width and "
+"height and scale according to the browser size."
+msgstr ""
+
+#: includes/admin-options.php:1481 includes/admin-options.php:2111
+#: includes/admin-options.php:3539
+msgid "Parallax Background Image"
+msgstr ""
+
+#: includes/admin-options.php:1482
+msgid ""
+"Turn on to enable parallax scrolling on the background image for header top "
+"positions."
+msgstr ""
+
+#: includes/admin-options.php:1493 includes/admin-options.php:3550
+#: includes/shortcodes.php:158 lib/magee-shortcodes-pro/inc/options.php:4316
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/admin-options.php:1494
+msgid "Select how the background image repeats."
+msgstr ""
+
+#: includes/admin-options.php:1504
+msgid "Header Top Padding"
+msgstr ""
+
+#: includes/admin-options.php:1505 includes/admin-options.php:1516
+#: includes/admin-options.php:2597 includes/admin-options.php:2608
+#: includes/admin-options.php:3573 includes/admin-options.php:3584
+#: includes/admin-options.php:3630 includes/admin-options.php:3641
+msgid "In pixels or percentage, ex: 10px or 10%."
+msgstr ""
+
+#: includes/admin-options.php:1515
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: includes/admin-options.php:1531
+msgid "Top Bar Options"
+msgstr ""
+
+#: includes/admin-options.php:1544
+msgid "Display Top Bar"
+msgstr ""
+
+#: includes/admin-options.php:1555
+#: lib/magee-shortcodes-pro/inc/options.php:201
+#: lib/magee-shortcodes-pro/inc/options.php:1191
+#: lib/magee-shortcodes-pro/inc/options.php:2459
+#: lib/magee-shortcodes-pro/inc/options.php:2781
+#: lib/magee-shortcodes-pro/inc/options.php:4135
+#: lib/magee-shortcodes-pro/inc/options.php:4304
+#: lib/magee-shortcodes-pro/inc/options.php:5285
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin-options.php:1574 includes/admin-options.php:1591
+msgid "info"
+msgstr ""
+
+#: includes/admin-options.php:1575 includes/admin-options.php:1593
+msgid "sns"
+msgstr ""
+
+#: includes/admin-options.php:1576 includes/admin-options.php:1595
+msgid "menu"
+msgstr ""
+
+#: includes/admin-options.php:1577 includes/admin-options.php:1597
+msgid "none"
+msgstr ""
+
+#: includes/admin-options.php:1604
+msgid "Info Color"
+msgstr ""
+
+#: includes/admin-options.php:1615
+msgid "Info Content"
+msgstr ""
+
+#: includes/admin-options.php:1626
+msgid "Menu Color"
+msgstr ""
+
+#: includes/admin-options.php:1637
+msgid "Social Links"
+msgstr ""
+
+#: includes/admin-options.php:1652
+msgid "Social Title"
+msgstr ""
+
+#: includes/admin-options.php:1663
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: includes/admin-options.php:1688
+msgid "Social Icons Color"
+msgstr ""
+
+#: includes/admin-options.php:1698
+msgid "Social Icon Tooltip Position"
+msgstr ""
+
+#: includes/admin-options.php:1709
+msgid "bottom"
+msgstr ""
+
+#: includes/admin-options.php:1719
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/admin-options.php:1726
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: includes/admin-options.php:1737
+msgid "Enable Sticky Header on Tablets"
+msgstr ""
+
+#: includes/admin-options.php:1748
+msgid "Enable Sticky Header on Mobiles"
+msgstr ""
+
+#: includes/admin-options.php:1763
+msgid "Sticky Header Menu Item Padding"
+msgstr ""
+
+#: includes/admin-options.php:1764
+msgid ""
+"Controls the space between each menu item in the sticky header. Use a number "
+"without 'px', default is 0. ex: 10"
+msgstr ""
+
+#: includes/admin-options.php:1774
+msgid "Sticky Header Navigation Font Size"
+msgstr ""
+
+#: includes/admin-options.php:1775
+msgid ""
+"Controls the font size of the menu items in the sticky header. Use a number "
+"without 'px', default is 14. ex: 14"
+msgstr ""
+
+#: includes/admin-options.php:1785
+msgid "Sticky Header Logo Width"
+msgstr ""
+
+#: includes/admin-options.php:1786
+msgid ""
+"Controls the logo width in the sticky header. Use a number without 'px'."
+msgstr ""
+
+#: includes/admin-options.php:1798 includes/admin-options.php:1806
+msgid "Logo"
+msgstr ""
+
+#: includes/admin-options.php:1825 includes/admin-options.php:1893
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/admin-options.php:1826 includes/admin-options.php:1894
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: includes/admin-options.php:1837 includes/admin-options.php:1905
+msgid "Upload Logo (Retina Version @2x)"
+msgstr ""
+
+#: includes/admin-options.php:1838 includes/admin-options.php:1906
+msgid ""
+"Select an image file for the retina version of the logo. It should be "
+"exactly 2x the size of main logo."
+msgstr ""
+
+#: includes/admin-options.php:1848
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: includes/admin-options.php:1849 includes/admin-options.php:1917
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: includes/admin-options.php:1860
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: includes/admin-options.php:1861 includes/admin-options.php:1929
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height. Use a number without 'px', ex: 40"
+msgstr ""
+
+#: includes/admin-options.php:1877
+msgid "Sticky Header Logo"
+msgstr ""
+
+#: includes/admin-options.php:1916
+msgid "Sticky Logo Width for Retina Logo"
+msgstr ""
+
+#: includes/admin-options.php:1928
+msgid "Sticky Logo Height for Retina Logo"
+msgstr ""
+
+#: includes/admin-options.php:1944
+msgid "Logo Position"
+msgstr ""
+
+#: includes/admin-options.php:1955
+msgid "Logo Left Margin"
+msgstr ""
+
+#: includes/admin-options.php:1956 includes/admin-options.php:1967
+#: includes/admin-options.php:1978 includes/admin-options.php:1989
+msgid "Use a number without 'px', ex: 40"
+msgstr ""
+
+#: includes/admin-options.php:1966
+msgid "Logo Right Margin"
+msgstr ""
+
+#: includes/admin-options.php:1977
+msgid "Logo Top Margin"
+msgstr ""
+
+#: includes/admin-options.php:1988
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: includes/admin-options.php:2002
+msgid "Page Title Bar"
+msgstr ""
+
+#: includes/admin-options.php:2007
+msgid "Page Title Bar Options"
+msgstr ""
+
+#: includes/admin-options.php:2019
+msgid "Enable Page Title Bar"
+msgstr ""
+
+#: includes/admin-options.php:2030
+msgid "Page Title Bar Top Padding"
+msgstr ""
+
+#: includes/admin-options.php:2031
+msgid "In pixels, ex: 210px"
+msgstr ""
+
+#: includes/admin-options.php:2042
+msgid "Page Title Bar Bottom Padding"
+msgstr ""
+
+#: includes/admin-options.php:2043
+msgid "In pixels, ex: 160px"
+msgstr ""
+
+#: includes/admin-options.php:2053
+msgid "Page Title Bar Mobile Top Padding"
+msgstr ""
+
+#: includes/admin-options.php:2054
+msgid "In pixels, ex: 70px"
+msgstr ""
+
+#: includes/admin-options.php:2065
+msgid "Page Title Bar Mobile Bottom Padding"
+msgstr ""
+
+#: includes/admin-options.php:2066
+msgid "In pixels, ex: 50px"
+msgstr ""
+
+#: includes/admin-options.php:2077
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: includes/admin-options.php:2088
+msgid "Page Title Bar Background (Retina Version @2x)"
+msgstr ""
+
+#: includes/admin-options.php:2101
+msgid ""
+"Select yes to have the page title bar background image display at 100% in "
+"width and height and scale according to the browser size."
+msgstr ""
+
+#: includes/admin-options.php:2112
+msgid "Select yes to enable parallax background image when scrolling."
+msgstr ""
+
+#: includes/admin-options.php:2123
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: includes/admin-options.php:2136
+msgid "Display breadcrumb"
+msgstr ""
+
+#: includes/admin-options.php:2147
+msgid "Breadcrumbs on Mobile Devices"
+msgstr ""
+
+#: includes/admin-options.php:2148
+msgid "Check to display breadcrumbs on mobile devices."
+msgstr ""
+
+#: includes/admin-options.php:2158
+msgid "Breadcrumb Menu Prefix"
+msgstr ""
+
+#: includes/admin-options.php:2159
+msgid "The text before the breadcrumb menu."
+msgstr ""
+
+#: includes/admin-options.php:2169
+msgid "Breadcrumb Menu Separator"
+msgstr ""
+
+#: includes/admin-options.php:2170
+msgid "Choose a separator between the single breadcrumbs."
+msgstr ""
+
+#: includes/admin-options.php:2204
+msgid "Typography"
+msgstr ""
+
+#: includes/admin-options.php:2212
+msgid "Google Fonts ( will override standard fonts )"
+msgstr ""
+
+#: includes/admin-options.php:2225 includes/admin-options.php:2299
+msgid "Select Body Font Family"
+msgstr ""
+
+#: includes/admin-options.php:2237 includes/admin-options.php:2311
+msgid "Select Menu Font Family"
+msgstr ""
+
+#: includes/admin-options.php:2249 includes/admin-options.php:2323
+msgid "Select Headings Font Family"
+msgstr ""
+
+#: includes/admin-options.php:2261 includes/admin-options.php:2335
+msgid "Select Footer Headings Font Family"
+msgstr ""
+
+#: includes/admin-options.php:2272 includes/admin-options.php:2346
+msgid "Select Button Font Family"
+msgstr ""
+
+#: includes/admin-options.php:2286
+msgid "Standard Fonts"
+msgstr ""
+
+#: includes/admin-options.php:2359
+msgid "Load Google Fonts"
+msgstr ""
+
+#: includes/admin-options.php:2360
+msgid "Default: Open+Sans:300,400,700|Yanone+Kaffeesatz"
+msgstr ""
+
+#: includes/admin-options.php:2373
+msgid "Styling"
+msgstr ""
+
+#: includes/admin-options.php:2399
+msgid "Primary Color"
+msgstr ""
+
+#: includes/admin-options.php:2412
+msgid "Background Colors"
+msgstr ""
+
+#: includes/admin-options.php:2425
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2436
+msgid "Sticky Header Background Opacity"
+msgstr ""
+
+#: includes/admin-options.php:2437 includes/admin-options.php:2460
+msgid ""
+"Opacity only works with header top position and ranges between 0 "
+"(transparent) and 1."
+msgstr ""
+
+#: includes/admin-options.php:2448
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2459
+msgid "Header Background Opacity"
+msgstr ""
+
+#: includes/admin-options.php:2472
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2483
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2494
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2506
+msgid "Copyright Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2522
+msgid "Element Colors"
+msgstr ""
+
+#: includes/admin-options.php:2535
+msgid "Footer Widget Divider Color"
+msgstr ""
+
+#: includes/admin-options.php:2536
+msgid "Controls the divider color in the footer."
+msgstr ""
+
+#: includes/admin-options.php:2546
+msgid "Form Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2547
+msgid "Controls the background color of form fields."
+msgstr ""
+
+#: includes/admin-options.php:2557
+msgid "Form Text Color"
+msgstr ""
+
+#: includes/admin-options.php:2558
+msgid "Controls the text color for forms."
+msgstr ""
+
+#: includes/admin-options.php:2568
+msgid "Form Border Color"
+msgstr ""
+
+#: includes/admin-options.php:2569
+msgid "Controls the border color for forms."
+msgstr ""
+
+#: includes/admin-options.php:2583
+msgid "Layout Options"
+msgstr ""
+
+#: includes/admin-options.php:2596
+msgid "Page Content Top Padding"
+msgstr ""
+
+#: includes/admin-options.php:2607
+msgid "Page Content Bottom Padding"
+msgstr ""
+
+#: includes/admin-options.php:2618
+msgid "100% Width Left/Right Padding ###"
+msgstr ""
+
+#: includes/admin-options.php:2619
+msgid ""
+"This option controls the left/right padding for page content when using 100% "
+"site width or 100% width page template. In pixels or percentage, ex: 10px or "
+"10%."
+msgstr ""
+
+#: includes/admin-options.php:2629
+msgid "Sidebar Padding"
+msgstr ""
+
+#: includes/admin-options.php:2630
+msgid "Enter a pixel or percentage based value, ex: 5px or 5%"
+msgstr ""
+
+#: includes/admin-options.php:2640
+msgid "Column Top Margin"
+msgstr ""
+
+#: includes/admin-options.php:2641
+msgid ""
+"Controls the top margin for all column sizes. In pixels or percentage, ex: "
+"10px or 10%."
+msgstr ""
+
+#: includes/admin-options.php:2651
+msgid "Column Bottom Margin"
+msgstr ""
+
+#: includes/admin-options.php:2652
+msgid ""
+"Controls the bottom margin for all column sizes. In pixels or percentage, "
+"ex: 10px or 10%."
+msgstr ""
+
+#: includes/admin-options.php:2666
+msgid "Font Colors"
+msgstr ""
+
+#: includes/admin-options.php:2680
+msgid "Header Tagline"
+msgstr ""
+
+#: includes/admin-options.php:2691
+msgid "Page Title"
+msgstr ""
+
+#: includes/admin-options.php:2703
+msgid "Heading 1 (H1) Font Color"
+msgstr ""
+
+#: includes/admin-options.php:2714
+msgid "Heading 2 (H2) Font Color"
+msgstr ""
+
+#: includes/admin-options.php:2725
+msgid "Heading 3 (H3) Font Color"
+msgstr ""
+
+#: includes/admin-options.php:2736
+msgid "Heading 4 (H4) Font Color"
+msgstr ""
+
+#: includes/admin-options.php:2747
+msgid "Heading 5 (H5) Font Color"
+msgstr ""
+
+#: includes/admin-options.php:2758
+msgid "Heading 6 (H6) Font Color"
+msgstr ""
+
+#: includes/admin-options.php:2770
+msgid "Body Text Color"
+msgstr ""
+
+#: includes/admin-options.php:2781
+msgid "Links Color"
+msgstr ""
+
+#: includes/admin-options.php:2792
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: includes/admin-options.php:2804
+msgid "Sidebar Widget Headings Color"
+msgstr ""
+
+#: includes/admin-options.php:2815
+msgid "Footer Headings Color"
+msgstr ""
+
+#: includes/admin-options.php:2826
+msgid "Footer Text Color"
+msgstr ""
+
+#: includes/admin-options.php:2837
+msgid "Footer Link Color"
+msgstr ""
+
+#: includes/admin-options.php:2852
+msgid "Main Menu Colors"
+msgstr ""
+
+#: includes/admin-options.php:2865
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: includes/admin-options.php:2876
+msgid "Main Menu Font Color ( First Level )"
+msgstr ""
+
+#: includes/admin-options.php:2887
+msgid "Main Menu Font Hover Color ( First Level )"
+msgstr ""
+
+#: includes/admin-options.php:2898
+msgid "Main Menu Background Color ( Sub Level )"
+msgstr ""
+
+#: includes/admin-options.php:2910
+msgid "Main Menu Font Color ( Sub Level )"
+msgstr ""
+
+#: includes/admin-options.php:2921
+msgid "Main Menu Font Hover Color ( Sub Level )"
+msgstr ""
+
+#: includes/admin-options.php:2932
+msgid "Main Menu Separator Color ( Sub Levels )"
+msgstr ""
+
+#: includes/admin-options.php:2950
+msgid "Sidebar"
+msgstr ""
+
+#: includes/admin-options.php:2956
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/admin-options.php:2969 includes/admin-options.php:3012
+#: includes/admin-options.php:3053 includes/admin-options.php:3095
+#: includes/admin-options.php:3138 includes/admin-options.php:3181
+#: includes/admin-options.php:3224 includes/admin-options.php:3265
+#: includes/metabox-options.php:251
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/admin-options.php:2981 includes/admin-options.php:3024
+#: includes/admin-options.php:3065 includes/admin-options.php:3107
+#: includes/admin-options.php:3150 includes/admin-options.php:3193
+#: includes/admin-options.php:3236 includes/admin-options.php:3277
+#: includes/metabox-options.php:252
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/admin-options.php:2999
+msgid "Blog Archive / Category Pages"
+msgstr ""
+
+#: includes/admin-options.php:3040
+msgid "Woocommerce Products"
+msgstr ""
+
+#: includes/admin-options.php:3082
+msgid "Woocommerce Archive"
+msgstr ""
+
+#: includes/admin-options.php:3125
+msgid "Portfolio Posts"
+msgstr ""
+
+#: includes/admin-options.php:3168
+msgid "Portfolio Archive"
+msgstr ""
+
+#: includes/admin-options.php:3211
+msgid "Search Page"
+msgstr ""
+
+#: includes/admin-options.php:3252
+msgid "404 Page"
+msgstr ""
+
+#: includes/admin-options.php:3301
+msgid "Slideshow"
+msgstr ""
+
+#: includes/admin-options.php:3306
+msgid "Slide 1"
+msgstr ""
+
+#: includes/admin-options.php:3316 includes/admin-options.php:3348
+#: includes/admin-options.php:3378 includes/admin-options.php:3409
+#: includes/admin-options.php:3439
+#: lib/magee-shortcodes-pro/inc/options.php:1539
+#: lib/magee-shortcodes-pro/inc/options.php:2567
+#: lib/magee-shortcodes-pro/inc/options.php:2708
+msgid "Image"
+msgstr ""
+
+#: includes/admin-options.php:3325 includes/admin-options.php:3356
+#: includes/admin-options.php:3386 includes/admin-options.php:3417
+#: includes/admin-options.php:3446
+#: lib/magee-shortcodes-pro/inc/options.php:143
+#: lib/magee-shortcodes-pro/inc/options.php:2775
+#: lib/magee-shortcodes-pro/inc/options.php:3817
+#: lib/magee-shortcodes-pro/inc/options.php:3888
+#: lib/magee-shortcodes-pro/inc/options.php:4929
+msgid "Text"
+msgstr ""
+
+#: includes/admin-options.php:3338
+msgid "Slide 2"
+msgstr ""
+
+#: includes/admin-options.php:3368
+msgid "Slide 3"
+msgstr ""
+
+#: includes/admin-options.php:3399
+msgid "Slide 4"
+msgstr ""
+
+#: includes/admin-options.php:3428
+msgid "Slide 5"
+msgstr ""
+
+#: includes/admin-options.php:3457
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/admin-options.php:3460
+msgid ""
+"Milliseconds between the end of the sliding effect and the start of the nex "
+"one."
+msgstr ""
+
+#: includes/admin-options.php:3469
+msgid "Footer"
+msgstr ""
+
+#: includes/admin-options.php:3476
+msgid "Footer Widgets Area Options"
+msgstr ""
+
+#: includes/admin-options.php:3489
+msgid "Display footer widgets?"
+msgstr ""
+
+#: includes/admin-options.php:3500
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: includes/admin-options.php:3517
+msgid "Upload Background Image"
+msgstr ""
+
+#: includes/admin-options.php:3529
+msgid ""
+"Select yes to have the footer widgets area background image display at 100% "
+"in width and height and scale according to the browser size."
+msgstr ""
+
+#: includes/admin-options.php:3561
+#: lib/magee-shortcodes-pro/inc/options.php:1356
+#: lib/magee-shortcodes-pro/inc/options.php:4330
+msgid "Background Position"
+msgstr ""
+
+#: includes/admin-options.php:3572
+msgid "Footer Top Padding"
+msgstr ""
+
+#: includes/admin-options.php:3583
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: includes/admin-options.php:3594
+msgid "Copyright Options"
+msgstr ""
+
+#: includes/admin-options.php:3606
+msgid "Display Copyright Bar"
+msgstr ""
+
+#: includes/admin-options.php:3617
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/admin-options.php:3618
+msgid ""
+"Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr ""
+
+#: includes/admin-options.php:3629
+msgid "Copyright Top Padding"
+msgstr ""
+
+#: includes/admin-options.php:3640
+msgid "Copyright Bottom Padding"
+msgstr ""
+
+#: includes/admin-options.php:3654
+msgid "404 page"
+msgstr ""
+
+#: includes/admin-options.php:3659
+msgid "404 page content"
+msgstr ""
+
+#: includes/admin-options.php:3671
+msgid "Blog"
+msgstr ""
+
+#: includes/admin-options.php:3676
+msgid "Blog Archive List Content"
+msgstr ""
+
+#: includes/admin-options.php:3683
+msgid "Excerpt"
+msgstr ""
+
+#: includes/admin-options.php:3712 includes/admin-options.php:3717
+msgid "About Onetone"
+msgstr ""
+
+#: includes/admin-options.php:3726
+msgid ""
+"Based on Bootstrap and coded with HTML5 and CSS3 language, Onetone is fully "
+"responsive in desktops and mobile devices. With enriched settings in theme "
+"options , you can not only change header and footer patterns, but also "
+"customize background colors, page layouts and social links, etc. Read below "
+"for additional information about Onetone."
+msgstr ""
+
+#: includes/admin-options.php:3729 includes/admin-options.php:3731
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin-options.php:3730
+msgid ""
+"The online documentaiton for Onetone is an incredible resource for learning "
+"how to use Onetone. You could follow this manual step by step to build your "
+"site."
+msgstr ""
+
+#: includes/admin-options.php:3734 includes/admin-options.php:3735
+msgid "Support Forum"
+msgstr ""
+
+#: includes/admin-options.php:3734
+msgid ""
+"We also have a support forum for users to communicate. If you have any "
+"problem while using this theme, feel free to post in the forum. Our support "
+"team would reply you asap."
+msgstr ""
+
+#: includes/admin-options.php:3738 includes/admin-options.php:3739
+msgid "Theme Center"
+msgstr ""
+
+#: includes/admin-options.php:3738
+msgid "Like our themes? Come here to get more."
+msgstr ""
+
+#: includes/breadcrumbs.php:147
+msgid "Browse:"
+msgstr ""
+
+#: includes/breadcrumbs.php:148
+msgid "Home"
+msgstr ""
+
+#: includes/breadcrumbs.php:149
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/breadcrumbs.php:150
+msgid "Archives"
+msgstr ""
+
+#: includes/breadcrumbs.php:152
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/breadcrumbs.php:154
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:156
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:158
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: includes/breadcrumbs.php:911 includes/breadcrumbs.php:937
+#: includes/breadcrumbs.php:949 includes/breadcrumbs.php:971 single.php:53
+msgid "Edit"
+msgstr ""
+
+#: includes/breadcrumbs.php:931
+msgid "Split"
+msgstr ""
+
+#: includes/breadcrumbs.php:934
+msgid "Merge"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:367
+#: includes/class-tgm-plugin-activation.php:2955
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:603
+msgid "The \"tgmpa_admin_menu_use_add_theme_page\" filter"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2118
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2121
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2137
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2140
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2143
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2160
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2164
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2166
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2172
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2175
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2178
+msgid "Update recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2330
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2338
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2350
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2373
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2387
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2388
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2389
+#: lib/magee-shortcodes-pro/inc/options.php:121
+#: lib/magee-shortcodes-pro/inc/options.php:4775
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2393
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2394
+#: lib/magee-shortcodes-pro/inc/options.php:149
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2554
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2560
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2563
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2594
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2954
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3284
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3287
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3291
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3292
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3293
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3297
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3299
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/metabox-options.php:36
+msgid "Onetone Metabox Options"
+msgstr ""
+
+#: includes/metabox-options.php:48 lib/magee-shortcodes-pro/inc/core.php:1377
+msgid "Select a slider"
+msgstr ""
+
+#: includes/metabox-options.php:181
+#: lib/magee-shortcodes-pro/inc/options.php:1981
+#: lib/magee-shortcodes-pro/inc/options.php:4373
+#: lib/magee-shortcodes-pro/inc/options.php:4442
+#: lib/magee-shortcodes-pro/inc/options.php:4462
+#: lib/magee-shortcodes-pro/inc/options.php:4843
+msgid "None"
+msgstr ""
+
+#: includes/metabox-options.php:205
+msgid "Content Full Width"
+msgstr ""
+
+#: includes/metabox-options.php:213
+#: lib/magee-shortcodes-pro/inc/options.php:4394
+msgid "Padding Top"
+msgstr ""
+
+#: includes/metabox-options.php:219
+#: lib/magee-shortcodes-pro/inc/options.php:4402
+msgid "Padding Bottom"
+msgstr ""
+
+#: includes/metabox-options.php:226
+msgid "Display Title Bar"
+msgstr ""
+
+#: includes/metabox-options.php:236
+msgid "Display Breadcrumb"
+msgstr ""
+
+#: includes/metabox-options.php:247
+msgid "Page Layout"
+msgstr ""
+
+#: includes/metabox-options.php:250 includes/theme-widget.php:8
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/metabox-options.php:253
+msgid "Both Sidebar"
+msgstr ""
+
+#: includes/metabox-options.php:258
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: includes/metabox-options.php:267
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: includes/shortcodes.php:58 lib/magee-shortcodes-pro/inc/options.php:1552
+#: lib/magee-shortcodes-pro/inc/options.php:4055
+msgid "Align"
+msgstr ""
+
+#: includes/shortcodes.php:59 includes/shortcodes.php:66
+#: includes/shortcodes.php:78 includes/shortcodes.php:85
+#: includes/shortcodes.php:92 includes/shortcodes.php:98
+#: includes/shortcodes.php:106 includes/shortcodes.php:119
+#: includes/shortcodes.php:128 includes/shortcodes.php:142
+#: includes/shortcodes.php:152 includes/shortcodes.php:166
+#: includes/shortcodes.php:184 includes/shortcodes.php:194
+msgid "Css Class"
+msgstr ""
+
+#: includes/shortcodes.php:59 includes/shortcodes.php:66
+#: includes/shortcodes.php:78 includes/shortcodes.php:85
+#: includes/shortcodes.php:92 includes/shortcodes.php:98
+#: includes/shortcodes.php:106 includes/shortcodes.php:119
+#: includes/shortcodes.php:128 includes/shortcodes.php:142
+#: includes/shortcodes.php:152 includes/shortcodes.php:166
+#: includes/shortcodes.php:184 includes/shortcodes.php:194
+msgid "Extra CSS class"
+msgstr ""
+
+#: includes/shortcodes.php:63 lib/magee-shortcodes-pro/inc/options.php:271
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/shortcodes.php:64 lib/magee-shortcodes-pro/inc/options.php:278
+msgid "Animation Type"
+msgstr ""
+
+#: includes/shortcodes.php:65 lib/magee-shortcodes-pro/inc/options.php:284
+msgid "Image Animation"
+msgstr ""
+
+#: includes/shortcodes.php:65
+msgid "Image animation only"
+msgstr ""
+
+#: includes/shortcodes.php:70 lib/magee-shortcodes-pro/inc/options.php:3305
+msgid "Size"
+msgstr ""
+
+#: includes/shortcodes.php:71 lib/magee-shortcodes-pro/inc/options.php:553
+#: lib/magee-shortcodes-pro/inc/options.php:709
+#: lib/magee-shortcodes-pro/inc/options.php:3860
+#: lib/magee-shortcodes-pro/inc/options.php:4586
+msgid "Rounded"
+msgstr ""
+
+#: includes/shortcodes.php:73
+msgid "Target"
+msgstr ""
+
+#: includes/shortcodes.php:74 lib/magee-shortcodes-pro/inc/options.php:1695
+#: lib/magee-shortcodes-pro/inc/options.php:3720
+#: lib/magee-shortcodes-pro/inc/options.php:3905
+msgid "Color"
+msgstr ""
+
+#: includes/shortcodes.php:88
+msgid "Extra small grid( &lt; 768px)"
+msgstr ""
+
+#: includes/shortcodes.php:88
+msgid "Select column width. This width will be calculated depend page width."
+msgstr ""
+
+#: includes/shortcodes.php:89
+msgid "Small grid(&ge;  768px)"
+msgstr ""
+
+#: includes/shortcodes.php:90
+msgid "Medium grid( &ge;  992px)"
+msgstr ""
+
+#: includes/shortcodes.php:91
+msgid "Large grid( &ge;  1200px)"
+msgstr ""
+
+#: includes/shortcodes.php:96 includes/shortcodes.php:111
+#: includes/shortcodes.php:132 includes/shortcodes.php:170
+#: includes/shortcodes.php:188 lib/magee-shortcodes-pro/inc/options.php:112
+#: lib/magee-shortcodes-pro/inc/options.php:650
+#: lib/magee-shortcodes-pro/inc/options.php:1115
+#: lib/magee-shortcodes-pro/inc/options.php:1740
+#: lib/magee-shortcodes-pro/inc/options.php:1805
+#: lib/magee-shortcodes-pro/inc/options.php:2342
+#: lib/magee-shortcodes-pro/inc/options.php:2653
+#: lib/magee-shortcodes-pro/inc/options.php:3089
+#: lib/magee-shortcodes-pro/inc/options.php:3447
+#: lib/magee-shortcodes-pro/inc/options.php:3602
+#: lib/magee-shortcodes-pro/inc/options.php:3760
+#: lib/magee-shortcodes-pro/inc/options.php:3839
+#: lib/magee-shortcodes-pro/inc/options.php:3951
+#: lib/magee-shortcodes-pro/inc/options.php:4624
+#: lib/magee-shortcodes-pro/inc/options.php:4704
+msgid "Style"
+msgstr ""
+
+#: includes/shortcodes.php:97
+msgid "Divider Height"
+msgstr ""
+
+#: includes/shortcodes.php:104
+msgid "Menu"
+msgstr ""
+
+#: includes/shortcodes.php:105
+msgid "Position"
+msgstr ""
+
+#: includes/shortcodes.php:112
+msgid "Contact Email"
+msgstr ""
+
+#: includes/shortcodes.php:117 includes/shortcodes.php:141
+msgid "List Items"
+msgstr ""
+
+#: includes/shortcodes.php:124 lib/magee-shortcodes-pro/inc/options.php:397
+#: lib/magee-shortcodes-pro/inc/options.php:3427
+msgid "List Num"
+msgstr ""
+
+#: includes/shortcodes.php:126 includes/shortcodes.php:199
+#: lib/magee-shortcodes-pro/inc/options.php:413
+#: lib/magee-shortcodes-pro/inc/options.php:3432
+msgid "Category"
+msgstr ""
+
+#: includes/shortcodes.php:127
+msgid "Display Pagenav"
+msgstr ""
+
+#: includes/shortcodes.php:135 includes/shortcodes.php:189
+#: lib/magee-shortcodes-pro/inc/core.php:494
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:158
+#: lib/magee-shortcodes-pro/inc/options.php:137
+#: lib/magee-shortcodes-pro/inc/options.php:1919
+#: lib/magee-shortcodes-pro/inc/options.php:2336
+#: lib/magee-shortcodes-pro/inc/options.php:2864
+#: lib/magee-shortcodes-pro/inc/options.php:3022
+#: lib/magee-shortcodes-pro/inc/options.php:3105
+#: lib/magee-shortcodes-pro/inc/options.php:3296
+#: lib/magee-shortcodes-pro/inc/options.php:3475
+#: lib/magee-shortcodes-pro/inc/options.php:3655
+#: lib/magee-shortcodes-pro/inc/options.php:3810
+#: lib/magee-shortcodes-pro/inc/options.php:4742
+#: lib/magee-shortcodes-pro/inc/options.php:4917
+msgid "Title"
+msgstr ""
+
+#: includes/shortcodes.php:136
+msgid "Sub-title"
+msgstr ""
+
+#: includes/shortcodes.php:140 lib/magee-shortcodes-pro/inc/options.php:609
+#: lib/magee-shortcodes-pro/inc/options.php:4017
+msgid "Button Icon"
+msgstr ""
+
+#: includes/shortcodes.php:140
+msgid "Font Awesome Icon."
+msgstr ""
+
+#: includes/shortcodes.php:156
+msgid "Section Background Color"
+msgstr ""
+
+#: includes/shortcodes.php:157
+msgid "Section Background Image"
+msgstr ""
+
+#: includes/shortcodes.php:161
+msgid "Heading Font Color"
+msgstr ""
+
+#: includes/shortcodes.php:161
+msgid "h1-h6 color, e.g. #ffffff"
+msgstr ""
+
+#: includes/shortcodes.php:163
+msgid "e.g. 60px 0"
+msgstr ""
+
+#: includes/shortcodes.php:165
+msgid "ID"
+msgstr ""
+
+#: includes/shortcodes.php:165
+msgid "Scrolling to a specified target."
+msgstr ""
+
+#: includes/shortcodes.php:171
+msgid "Member Name"
+msgstr ""
+
+#: includes/shortcodes.php:172 lib/magee-shortcodes-pro/inc/options.php:4828
+msgid "Byline"
+msgstr ""
+
+#: includes/shortcodes.php:173 lib/magee-shortcodes-pro/inc/options.php:4833
+msgid "Avatar"
+msgstr ""
+
+#: includes/shortcodes.php:173
+msgid "Size 238 x 271 px for 3/12 column"
+msgstr ""
+
+#: includes/shortcodes.php:174
+msgid "Social Icon 1"
+msgstr ""
+
+#: includes/shortcodes.php:176
+msgid "Social Link 1"
+msgstr ""
+
+#: includes/shortcodes.php:177
+msgid "Social Icon 2"
+msgstr ""
+
+#: includes/shortcodes.php:178
+msgid "Social Link 2"
+msgstr ""
+
+#: includes/shortcodes.php:179
+msgid "Social Icon 3"
+msgstr ""
+
+#: includes/shortcodes.php:180
+msgid "Social Link 3"
+msgstr ""
+
+#: includes/shortcodes.php:181
+msgid "Social Icon 4"
+msgstr ""
+
+#: includes/shortcodes.php:182
+msgid "Social Link 4"
+msgstr ""
+
+#: includes/shortcodes.php:190 lib/magee-shortcodes-pro/inc/options.php:186
+#: lib/magee-shortcodes-pro/inc/options.php:1540
+#: lib/magee-shortcodes-pro/inc/options.php:1593
+#: lib/magee-shortcodes-pro/inc/options.php:1944
+#: lib/magee-shortcodes-pro/inc/options.php:2512
+#: lib/magee-shortcodes-pro/inc/options.php:2831
+#: lib/magee-shortcodes-pro/inc/options.php:3646
+#: lib/magee-shortcodes-pro/inc/options.php:4547
+msgid "Icon"
+msgstr ""
+
+#: includes/shortcodes.php:190
+msgid "Font Awesome Icon or Image URL"
+msgstr ""
+
+#: includes/shortcodes.php:192
+msgid "Link"
+msgstr ""
+
+#: includes/shortcodes.php:192
+msgid "Read more link."
+msgstr ""
+
+#: includes/shortcodes.php:198
+msgid "Blog List Num"
+msgstr ""
+
+#: includes/shortcodes.php:200 lib/magee-shortcodes-pro/inc/options.php:467
+#: lib/magee-shortcodes-pro/inc/options.php:3563
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/shortcodes.php:200
+msgid "Number of words."
+msgstr ""
+
+#: includes/shortcodes.php:443 includes/shortcodes.php:462
+#: includes/shortcodes.php:477 includes/shortcodes.php:509
+#: includes/shortcodes.php:539 includes/shortcodes.php:555
+msgid "SEND"
+msgstr ""
+
+#: includes/shortcodes.php:445 includes/shortcodes.php:464
+#: includes/shortcodes.php:479 includes/shortcodes.php:510
+#: includes/shortcodes.php:540 includes/shortcodes.php:556
+msgid "Please enter valid email."
+msgstr ""
+
+#: includes/shortcodes.php:446 includes/shortcodes.php:465
+#: includes/shortcodes.php:480 includes/shortcodes.php:511
+#: includes/shortcodes.php:541 includes/shortcodes.php:557
+#: includes/theme-functions.php:29 lib/magee-shortcodes-pro/inc/core.php:1542
+msgid "Please enter your name."
+msgstr ""
+
+#: includes/shortcodes.php:447 includes/shortcodes.php:466
+#: includes/shortcodes.php:481 includes/shortcodes.php:512
+#: includes/shortcodes.php:542 includes/shortcodes.php:558
+msgid "Message is required."
+msgstr ""
+
+#: includes/shortcodes.php:495
+msgid "YOUR NAME"
+msgstr ""
+
+#: includes/shortcodes.php:499
+msgid "YOUR E-MAIL"
+msgstr ""
+
+#: includes/shortcodes.php:503
+msgid "YOUR MESSAGE"
+msgstr ""
+
+#: includes/shortcodes.php:524
+msgid "Your Name"
+msgstr ""
+
+#: includes/shortcodes.php:529
+msgid "Your Email"
+msgstr ""
+
+#: includes/shortcodes.php:1243 includes/shortcodes.php:1246
+msgid "Onetone Shortcodes"
+msgstr ""
+
+#: includes/shortcodes.php:1257
+msgid "Onetone Shortcodes Generator"
+msgstr ""
+
+#: includes/shortcodes.php:1271
+msgid "All shortcodes"
+msgstr ""
+
+#: includes/shortcodes.php:1278
+msgid "Preview shortcode"
+msgstr ""
+
+#: includes/shortcodes.php:1279 lib/magee-shortcodes-pro/inc/core.php:643
+msgid "Insert shortcode"
+msgstr ""
+
+#: includes/theme-functions.php:36 lib/magee-shortcodes-pro/inc/core.php:1531
+msgid "Please enter your email address."
+msgstr ""
+
+#: includes/theme-functions.php:39 lib/magee-shortcodes-pro/inc/core.php:1534
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: includes/theme-functions.php:46 lib/magee-shortcodes-pro/inc/core.php:1511
+msgid "Please enter a message."
+msgstr ""
+
+#: includes/theme-functions.php:72 includes/theme-functions.php:121
+#: lib/magee-shortcodes-pro/inc/core.php:1585
+#: lib/magee-shortcodes-pro/inc/core.php:1628
+msgid "Your message has been successfully sent!"
+msgstr ""
+
+#: includes/theme-functions.php:198
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/theme-functions.php:199
+msgid "(Edit)"
+msgstr ""
+
+#: includes/theme-functions.php:200
+msgid "Reply"
+msgstr ""
+
+#: includes/theme-functions.php:204
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-functions.php:277
+msgid "MageeWP Themes"
+msgstr ""
+
+#: includes/theme-functions.php:278
+msgid "Manual"
+msgstr ""
+
+#: includes/theme-functions.php:279
+msgid "FAQ"
+msgstr ""
+
+#: includes/theme-functions.php:280
+msgid "Knowledge"
+msgstr ""
+
+#: includes/theme-functions.php:281
+msgid "Support Forums"
+msgstr ""
+
+#: includes/theme-functions.php:304
+#, php-format
+msgid " Page %s "
+msgstr ""
+
+#: includes/theme-functions.php:332
+msgid "TOP"
+msgstr ""
+
+#: includes/theme-functions.php:526 lib/magee-shortcodes-pro/inc/core.php:1651
+msgid " Prev"
+msgstr ""
+
+#: includes/theme-functions.php:527 lib/magee-shortcodes-pro/inc/core.php:1652
+msgid "Next "
+msgstr ""
+
+#: includes/theme-functions.php:906
+#: lib/magee-shortcodes-pro/shortcodes/class-blog.php:158
+#: lib/magee-shortcodes-pro/shortcodes/class-blog.php:214
+msgid "<i class=\"fa fa-comment\"></i> 1 "
+msgstr ""
+
+#: includes/theme-functions.php:906
+#: lib/magee-shortcodes-pro/shortcodes/class-blog.php:158
+#: lib/magee-shortcodes-pro/shortcodes/class-blog.php:214
+msgid "<i class=\"fa fa-comment\"></i> % "
+msgstr ""
+
+#: includes/theme-functions.php:924 includes/theme-functions.php:984
+#: lib/magee-shortcodes-pro/inc/core.php:532
+#: lib/magee-shortcodes-pro/inc/core.php:629
+msgid "No Comments"
+msgstr ""
+
+#: includes/theme-functions.php:925 includes/theme-functions.php:986
+#: lib/magee-shortcodes-pro/inc/core.php:533
+#: lib/magee-shortcodes-pro/inc/core.php:631
+msgid "1 Comment"
+msgstr ""
+
+#: includes/theme-functions.php:926 includes/theme-functions.php:982
+#: lib/magee-shortcodes-pro/inc/core.php:534
+#: lib/magee-shortcodes-pro/inc/core.php:627
+msgid "% Comments"
+msgstr ""
+
+#: includes/theme-functions.php:927 lib/magee-shortcodes-pro/inc/core.php:535
+msgid "Comments Off"
+msgstr ""
+
+#: includes/theme-functions.php:965 lib/magee-shortcodes-pro/inc/core.php:573
+#, php-format
+msgid "Comment on %s"
+msgstr ""
+
+#: includes/theme-functions.php:1037
+msgid "Products"
+msgstr ""
+
+#: includes/theme-functions.php:1070
+msgid ""
+"To save any changes on onetone options, click on the <strong  style=\"color:"
+"orange;\">Save All Options</strong> button on the right side."
+msgstr ""
+
+#: includes/theme-functions.php:1070
+msgid "Save All Options"
+msgstr ""
+
+#: includes/theme-functions.php:1071
+msgid "Options Updated"
+msgstr ""
+
+#: includes/theme-functions.php:1072
+msgid "Options Saving"
+msgstr ""
+
+#: includes/theme-setup.php:28
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/theme-setup.php:29
+msgid "Home Page Header Menu"
+msgstr ""
+
+#: includes/theme-setup.php:30
+msgid "Top Bar Menu"
+msgstr ""
+
+#: includes/theme-setup.php:915 includes/theme-setup.php:916
+msgid "Onetone Options"
+msgstr ""
+
+#: includes/theme-setup.php:947
+msgid "Untitled"
+msgstr ""
+
+#: includes/theme-widget.php:9
+msgid "Default Sidebar"
+msgstr ""
+
+#: includes/theme-widget.php:10
+msgid "Displayed Everywhere"
+msgstr ""
+
+#: includes/theme-widget.php:11
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/theme-widget.php:12
+msgid "Post Category Sidebar"
+msgstr ""
+
+#: includes/theme-widget.php:13
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: includes/theme-widget.php:14
+msgid "Portfolio Category Sidebar"
+msgstr ""
+
+#: includes/theme-widget.php:15
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/theme-widget.php:17
+msgid "Sidebar 1"
+msgstr ""
+
+#: includes/theme-widget.php:18
+msgid "Sidebar 2"
+msgstr ""
+
+#: includes/theme-widget.php:19
+msgid "Sidebar 3"
+msgstr ""
+
+#: includes/theme-widget.php:20
+msgid "Sidebar 4"
+msgstr ""
+
+#: includes/theme-widget.php:21 includes/theme-widget.php:22
+msgid "Sidebar 5"
+msgstr ""
+
+#: includes/theme-widget.php:23
+msgid "Sidebar 6"
+msgstr ""
+
+#: includes/theme-widget.php:24
+msgid "Sidebar 7"
+msgstr ""
+
+#: includes/theme-widget.php:25
+msgid "Sidebar 8"
+msgstr ""
+
+#: includes/theme-widget.php:26
+msgid "Footer Area One"
+msgstr ""
+
+#: includes/theme-widget.php:27
+msgid "Footer Area Two"
+msgstr ""
+
+#: includes/theme-widget.php:28
+msgid "Footer Area Three"
+msgstr ""
+
+#: includes/theme-widget.php:29
+msgid "Footer Area Four"
+msgstr ""
+
+#: lib/importer/parsers.php:43 lib/importer/parsers.php:75
+#: lib/importer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: lib/importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: lib/importer/parsers.php:87 lib/importer/parsers.php:92
+#: lib/importer/parsers.php:283 lib/importer/parsers.php:474
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:134
+#: lib/importer/wordpress-importer.php:143
+#: lib/importer/wordpress-importer.php:194
+#: lib/importer/wordpress-importer.php:198
+#: lib/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:511
+#: lib/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: lib/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/gallery/components/metabox.php:11
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/gallery/components/metabox.php:30
+msgid "Select Images"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/gallery/components/metabox.php:38
+msgid "Edit Selection"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/gallery/components/metabox.php:51
+msgid "Remove All"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:139
+#: lib/magee-shortcodes-pro/inc/core.php:143
+msgid "Magee Shortcodes Pro"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:204
+#: lib/magee-shortcodes-pro/inc/core.php:214
+#, php-format
+msgid ""
+"Want to know more about this shortcode? Check <a class=\"example-link\" "
+"target=\"_blank\" href=\"%s\"> Examples of use</a>."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:470
+#: lib/magee-shortcodes-pro/inc/core.php:471
+msgid "Portfolio"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:486
+msgid "Categories"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:488 single-portfolio.php:94
+msgid "Tags"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:495
+msgid "Portfolio Tags"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:496
+msgid "Portfolio Categories"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:643
+msgid "Live Preview"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:914
+msgid "Attach Images to Gallery"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:1016
+#: lib/magee-shortcodes-pro/inc/options.php:1414
+#: lib/magee-shortcodes-pro/inc/options.php:1547
+#: lib/magee-shortcodes-pro/inc/options.php:1635
+#: lib/magee-shortcodes-pro/inc/options.php:1764
+#: lib/magee-shortcodes-pro/inc/options.php:5040
+#: lib/magee-shortcodes-pro/inc/options.php:5122
+#: lib/magee-shortcodes-pro/inc/options.php:5203
+msgid "Width"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:1020
+#: lib/magee-shortcodes-pro/inc/options.php:1420
+#: lib/magee-shortcodes-pro/inc/options.php:1643
+#: lib/magee-shortcodes-pro/inc/options.php:1772
+#: lib/magee-shortcodes-pro/inc/options.php:3897
+#: lib/magee-shortcodes-pro/inc/options.php:5046
+#: lib/magee-shortcodes-pro/inc/options.php:5128
+#: lib/magee-shortcodes-pro/inc/options.php:5209
+msgid "Height"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:1506
+msgid "Tick the checkbox to agree to our terms and conditions."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:1523
+msgid "Please enter your subject."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:1575
+#, php-format
+msgid "From: %s <%s>"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/core.php:1577
+#, php-format
+msgid "Reply-To: %s"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:8
+msgid "Magee Slider"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:10
+msgid "Add New Slider"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:11
+msgid "Edit Slider"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:12
+msgid "New Slider"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:15
+msgid "Search Slider"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:16
+msgid "Nothing found"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:17
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:119
+msgid "Slide Title"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:121
+msgid "Slide Caption"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:123
+msgid "Sort"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:124
+msgid "Delete"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:130
+msgid "Use the button above to add Slides !"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:159
+msgid "Number of Slides"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/magee-slider.php:160
+msgid "Date"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:64
+#: lib/magee-shortcodes-pro/inc/options.php:1072
+#: lib/magee-shortcodes-pro/inc/options.php:1555
+#: lib/magee-shortcodes-pro/inc/options.php:2007
+#: lib/magee-shortcodes-pro/inc/options.php:2592
+#: lib/magee-shortcodes-pro/inc/options.php:3389
+#: lib/magee-shortcodes-pro/inc/options.php:3537
+#: lib/magee-shortcodes-pro/inc/options.php:3978
+#: lib/magee-shortcodes-pro/inc/options.php:4058
+#: lib/magee-shortcodes-pro/inc/options.php:4962
+msgid "Left"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:64
+#: lib/magee-shortcodes-pro/inc/options.php:1073
+#: lib/magee-shortcodes-pro/inc/options.php:1556
+#: lib/magee-shortcodes-pro/inc/options.php:2591
+#: lib/magee-shortcodes-pro/inc/options.php:3538
+#: lib/magee-shortcodes-pro/inc/options.php:4844
+msgid "Center"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:64
+#: lib/magee-shortcodes-pro/inc/options.php:1074
+#: lib/magee-shortcodes-pro/inc/options.php:2008
+#: lib/magee-shortcodes-pro/inc/options.php:2593
+#: lib/magee-shortcodes-pro/inc/options.php:3390
+#: lib/magee-shortcodes-pro/inc/options.php:3539
+#: lib/magee-shortcodes-pro/inc/options.php:3979
+#: lib/magee-shortcodes-pro/inc/options.php:4059
+#: lib/magee-shortcodes-pro/inc/options.php:4963
+msgid "Right"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:100
+#: lib/magee-shortcodes-pro/inc/options.php:248
+#: lib/magee-shortcodes-pro/inc/options.php:291
+#: lib/magee-shortcodes-pro/inc/options.php:364
+#: lib/magee-shortcodes-pro/inc/options.php:480
+#: lib/magee-shortcodes-pro/inc/options.php:624
+#: lib/magee-shortcodes-pro/inc/options.php:728
+#: lib/magee-shortcodes-pro/inc/options.php:785
+#: lib/magee-shortcodes-pro/inc/options.php:869
+#: lib/magee-shortcodes-pro/inc/options.php:916
+#: lib/magee-shortcodes-pro/inc/options.php:1005
+#: lib/magee-shortcodes-pro/inc/options.php:1080
+#: lib/magee-shortcodes-pro/inc/options.php:1148
+#: lib/magee-shortcodes-pro/inc/options.php:1198
+#: lib/magee-shortcodes-pro/inc/options.php:1312
+#: lib/magee-shortcodes-pro/inc/options.php:1381
+#: lib/magee-shortcodes-pro/inc/options.php:1503
+#: lib/magee-shortcodes-pro/inc/options.php:1601
+#: lib/magee-shortcodes-pro/inc/options.php:1664
+#: lib/magee-shortcodes-pro/inc/options.php:1715
+#: lib/magee-shortcodes-pro/inc/options.php:1778
+#: lib/magee-shortcodes-pro/inc/options.php:1824
+#: lib/magee-shortcodes-pro/inc/options.php:1881
+#: lib/magee-shortcodes-pro/inc/options.php:2086
+#: lib/magee-shortcodes-pro/inc/options.php:2189
+#: lib/magee-shortcodes-pro/inc/options.php:2310
+#: lib/magee-shortcodes-pro/inc/options.php:2431
+#: lib/magee-shortcodes-pro/inc/options.php:2484
+#: lib/magee-shortcodes-pro/inc/options.php:2540
+#: lib/magee-shortcodes-pro/inc/options.php:2620
+#: lib/magee-shortcodes-pro/inc/options.php:2682
+#: lib/magee-shortcodes-pro/inc/options.php:2746
+#: lib/magee-shortcodes-pro/inc/options.php:2816
+#: lib/magee-shortcodes-pro/inc/options.php:2923
+#: lib/magee-shortcodes-pro/inc/options.php:2955
+#: lib/magee-shortcodes-pro/inc/options.php:3063
+#: lib/magee-shortcodes-pro/inc/options.php:3247
+#: lib/magee-shortcodes-pro/inc/options.php:3334
+#: lib/magee-shortcodes-pro/inc/options.php:3397
+#: lib/magee-shortcodes-pro/inc/options.php:3575
+#: lib/magee-shortcodes-pro/inc/options.php:3628
+#: lib/magee-shortcodes-pro/inc/options.php:3781
+#: lib/magee-shortcodes-pro/inc/options.php:3923
+#: lib/magee-shortcodes-pro/inc/options.php:4030
+#: lib/magee-shortcodes-pro/inc/options.php:4071
+#: lib/magee-shortcodes-pro/inc/options.php:4173
+#: lib/magee-shortcodes-pro/inc/options.php:4214
+#: lib/magee-shortcodes-pro/inc/options.php:4271
+#: lib/magee-shortcodes-pro/inc/options.php:4486
+#: lib/magee-shortcodes-pro/inc/options.php:4521
+#: lib/magee-shortcodes-pro/inc/options.php:4599
+#: lib/magee-shortcodes-pro/inc/options.php:4642
+#: lib/magee-shortcodes-pro/inc/options.php:4725
+#: lib/magee-shortcodes-pro/inc/options.php:4856
+#: lib/magee-shortcodes-pro/inc/options.php:4897
+#: lib/magee-shortcodes-pro/inc/options.php:4984
+#: lib/magee-shortcodes-pro/inc/options.php:5089
+#: lib/magee-shortcodes-pro/inc/options.php:5171
+#: lib/magee-shortcodes-pro/inc/options.php:5252
+#: lib/magee-shortcodes-pro/inc/options.php:5298
+msgid "CSS Class"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:101
+#: lib/magee-shortcodes-pro/inc/options.php:249
+#: lib/magee-shortcodes-pro/inc/options.php:292
+#: lib/magee-shortcodes-pro/inc/options.php:365
+#: lib/magee-shortcodes-pro/inc/options.php:481
+#: lib/magee-shortcodes-pro/inc/options.php:625
+#: lib/magee-shortcodes-pro/inc/options.php:729
+#: lib/magee-shortcodes-pro/inc/options.php:786
+#: lib/magee-shortcodes-pro/inc/options.php:870
+#: lib/magee-shortcodes-pro/inc/options.php:917
+#: lib/magee-shortcodes-pro/inc/options.php:1006
+#: lib/magee-shortcodes-pro/inc/options.php:1081
+#: lib/magee-shortcodes-pro/inc/options.php:1149
+#: lib/magee-shortcodes-pro/inc/options.php:1199
+#: lib/magee-shortcodes-pro/inc/options.php:1313
+#: lib/magee-shortcodes-pro/inc/options.php:1382
+#: lib/magee-shortcodes-pro/inc/options.php:1504
+#: lib/magee-shortcodes-pro/inc/options.php:1602
+#: lib/magee-shortcodes-pro/inc/options.php:1665
+#: lib/magee-shortcodes-pro/inc/options.php:1716
+#: lib/magee-shortcodes-pro/inc/options.php:1779
+#: lib/magee-shortcodes-pro/inc/options.php:1825
+#: lib/magee-shortcodes-pro/inc/options.php:1882
+#: lib/magee-shortcodes-pro/inc/options.php:2087
+#: lib/magee-shortcodes-pro/inc/options.php:2190
+#: lib/magee-shortcodes-pro/inc/options.php:2311
+#: lib/magee-shortcodes-pro/inc/options.php:2432
+#: lib/magee-shortcodes-pro/inc/options.php:2485
+#: lib/magee-shortcodes-pro/inc/options.php:2541
+#: lib/magee-shortcodes-pro/inc/options.php:2621
+#: lib/magee-shortcodes-pro/inc/options.php:2683
+#: lib/magee-shortcodes-pro/inc/options.php:2747
+#: lib/magee-shortcodes-pro/inc/options.php:2817
+#: lib/magee-shortcodes-pro/inc/options.php:2924
+#: lib/magee-shortcodes-pro/inc/options.php:2956
+#: lib/magee-shortcodes-pro/inc/options.php:3064
+#: lib/magee-shortcodes-pro/inc/options.php:3248
+#: lib/magee-shortcodes-pro/inc/options.php:3335
+#: lib/magee-shortcodes-pro/inc/options.php:3398
+#: lib/magee-shortcodes-pro/inc/options.php:3576
+#: lib/magee-shortcodes-pro/inc/options.php:3629
+#: lib/magee-shortcodes-pro/inc/options.php:3782
+#: lib/magee-shortcodes-pro/inc/options.php:3924
+#: lib/magee-shortcodes-pro/inc/options.php:4031
+#: lib/magee-shortcodes-pro/inc/options.php:4072
+#: lib/magee-shortcodes-pro/inc/options.php:4174
+#: lib/magee-shortcodes-pro/inc/options.php:4215
+#: lib/magee-shortcodes-pro/inc/options.php:4272
+#: lib/magee-shortcodes-pro/inc/options.php:4487
+#: lib/magee-shortcodes-pro/inc/options.php:4522
+#: lib/magee-shortcodes-pro/inc/options.php:4600
+#: lib/magee-shortcodes-pro/inc/options.php:4643
+#: lib/magee-shortcodes-pro/inc/options.php:4726
+#: lib/magee-shortcodes-pro/inc/options.php:4857
+#: lib/magee-shortcodes-pro/inc/options.php:4898
+#: lib/magee-shortcodes-pro/inc/options.php:4985
+#: lib/magee-shortcodes-pro/inc/options.php:5090
+#: lib/magee-shortcodes-pro/inc/options.php:5172
+#: lib/magee-shortcodes-pro/inc/options.php:5253
+#: lib/magee-shortcodes-pro/inc/options.php:5299
+msgid "Add a class to the wrapping HTML element."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:106
+#: lib/magee-shortcodes-pro/inc/options.php:254
+#: lib/magee-shortcodes-pro/inc/options.php:297
+#: lib/magee-shortcodes-pro/inc/options.php:370
+#: lib/magee-shortcodes-pro/inc/options.php:486
+#: lib/magee-shortcodes-pro/inc/options.php:630
+#: lib/magee-shortcodes-pro/inc/options.php:734
+#: lib/magee-shortcodes-pro/inc/options.php:791
+#: lib/magee-shortcodes-pro/inc/options.php:875
+#: lib/magee-shortcodes-pro/inc/options.php:922
+#: lib/magee-shortcodes-pro/inc/options.php:1011
+#: lib/magee-shortcodes-pro/inc/options.php:1086
+#: lib/magee-shortcodes-pro/inc/options.php:1154
+#: lib/magee-shortcodes-pro/inc/options.php:1204
+#: lib/magee-shortcodes-pro/inc/options.php:1318
+#: lib/magee-shortcodes-pro/inc/options.php:1387
+#: lib/magee-shortcodes-pro/inc/options.php:1509
+#: lib/magee-shortcodes-pro/inc/options.php:1607
+#: lib/magee-shortcodes-pro/inc/options.php:1670
+#: lib/magee-shortcodes-pro/inc/options.php:1721
+#: lib/magee-shortcodes-pro/inc/options.php:1784
+#: lib/magee-shortcodes-pro/inc/options.php:1830
+#: lib/magee-shortcodes-pro/inc/options.php:1887
+#: lib/magee-shortcodes-pro/inc/options.php:2092
+#: lib/magee-shortcodes-pro/inc/options.php:2195
+#: lib/magee-shortcodes-pro/inc/options.php:2316
+#: lib/magee-shortcodes-pro/inc/options.php:2437
+#: lib/magee-shortcodes-pro/inc/options.php:2490
+#: lib/magee-shortcodes-pro/inc/options.php:2546
+#: lib/magee-shortcodes-pro/inc/options.php:2626
+#: lib/magee-shortcodes-pro/inc/options.php:2688
+#: lib/magee-shortcodes-pro/inc/options.php:2752
+#: lib/magee-shortcodes-pro/inc/options.php:2822
+#: lib/magee-shortcodes-pro/inc/options.php:2929
+#: lib/magee-shortcodes-pro/inc/options.php:2961
+#: lib/magee-shortcodes-pro/inc/options.php:3069
+#: lib/magee-shortcodes-pro/inc/options.php:3253
+#: lib/magee-shortcodes-pro/inc/options.php:3403
+#: lib/magee-shortcodes-pro/inc/options.php:3581
+#: lib/magee-shortcodes-pro/inc/options.php:3634
+#: lib/magee-shortcodes-pro/inc/options.php:3787
+#: lib/magee-shortcodes-pro/inc/options.php:3929
+#: lib/magee-shortcodes-pro/inc/options.php:4036
+#: lib/magee-shortcodes-pro/inc/options.php:4077
+#: lib/magee-shortcodes-pro/inc/options.php:4179
+#: lib/magee-shortcodes-pro/inc/options.php:4220
+#: lib/magee-shortcodes-pro/inc/options.php:4277
+#: lib/magee-shortcodes-pro/inc/options.php:4492
+#: lib/magee-shortcodes-pro/inc/options.php:4605
+#: lib/magee-shortcodes-pro/inc/options.php:4648
+#: lib/magee-shortcodes-pro/inc/options.php:4731
+#: lib/magee-shortcodes-pro/inc/options.php:4862
+#: lib/magee-shortcodes-pro/inc/options.php:4903
+#: lib/magee-shortcodes-pro/inc/options.php:4990
+#: lib/magee-shortcodes-pro/inc/options.php:5095
+#: lib/magee-shortcodes-pro/inc/options.php:5177
+#: lib/magee-shortcodes-pro/inc/options.php:5258
+#: lib/magee-shortcodes-pro/inc/options.php:5304
+msgid "CSS ID"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:107
+#: lib/magee-shortcodes-pro/inc/options.php:255
+#: lib/magee-shortcodes-pro/inc/options.php:298
+#: lib/magee-shortcodes-pro/inc/options.php:371
+#: lib/magee-shortcodes-pro/inc/options.php:487
+#: lib/magee-shortcodes-pro/inc/options.php:631
+#: lib/magee-shortcodes-pro/inc/options.php:735
+#: lib/magee-shortcodes-pro/inc/options.php:792
+#: lib/magee-shortcodes-pro/inc/options.php:876
+#: lib/magee-shortcodes-pro/inc/options.php:923
+#: lib/magee-shortcodes-pro/inc/options.php:1012
+#: lib/magee-shortcodes-pro/inc/options.php:1087
+#: lib/magee-shortcodes-pro/inc/options.php:1155
+#: lib/magee-shortcodes-pro/inc/options.php:1205
+#: lib/magee-shortcodes-pro/inc/options.php:1319
+#: lib/magee-shortcodes-pro/inc/options.php:1388
+#: lib/magee-shortcodes-pro/inc/options.php:1510
+#: lib/magee-shortcodes-pro/inc/options.php:1608
+#: lib/magee-shortcodes-pro/inc/options.php:1671
+#: lib/magee-shortcodes-pro/inc/options.php:1722
+#: lib/magee-shortcodes-pro/inc/options.php:1785
+#: lib/magee-shortcodes-pro/inc/options.php:1831
+#: lib/magee-shortcodes-pro/inc/options.php:1888
+#: lib/magee-shortcodes-pro/inc/options.php:2093
+#: lib/magee-shortcodes-pro/inc/options.php:2196
+#: lib/magee-shortcodes-pro/inc/options.php:2317
+#: lib/magee-shortcodes-pro/inc/options.php:2438
+#: lib/magee-shortcodes-pro/inc/options.php:2491
+#: lib/magee-shortcodes-pro/inc/options.php:2547
+#: lib/magee-shortcodes-pro/inc/options.php:2627
+#: lib/magee-shortcodes-pro/inc/options.php:2689
+#: lib/magee-shortcodes-pro/inc/options.php:2753
+#: lib/magee-shortcodes-pro/inc/options.php:2823
+#: lib/magee-shortcodes-pro/inc/options.php:2930
+#: lib/magee-shortcodes-pro/inc/options.php:2962
+#: lib/magee-shortcodes-pro/inc/options.php:3070
+#: lib/magee-shortcodes-pro/inc/options.php:3254
+#: lib/magee-shortcodes-pro/inc/options.php:3404
+#: lib/magee-shortcodes-pro/inc/options.php:3582
+#: lib/magee-shortcodes-pro/inc/options.php:3635
+#: lib/magee-shortcodes-pro/inc/options.php:3788
+#: lib/magee-shortcodes-pro/inc/options.php:3930
+#: lib/magee-shortcodes-pro/inc/options.php:4037
+#: lib/magee-shortcodes-pro/inc/options.php:4078
+#: lib/magee-shortcodes-pro/inc/options.php:4180
+#: lib/magee-shortcodes-pro/inc/options.php:4221
+#: lib/magee-shortcodes-pro/inc/options.php:4278
+#: lib/magee-shortcodes-pro/inc/options.php:4493
+#: lib/magee-shortcodes-pro/inc/options.php:4606
+#: lib/magee-shortcodes-pro/inc/options.php:4649
+#: lib/magee-shortcodes-pro/inc/options.php:4732
+#: lib/magee-shortcodes-pro/inc/options.php:4863
+#: lib/magee-shortcodes-pro/inc/options.php:4904
+#: lib/magee-shortcodes-pro/inc/options.php:4991
+#: lib/magee-shortcodes-pro/inc/options.php:5096
+#: lib/magee-shortcodes-pro/inc/options.php:5178
+#: lib/magee-shortcodes-pro/inc/options.php:5259
+#: lib/magee-shortcodes-pro/inc/options.php:5305
+msgid "Add an ID to the wrapping HTML element."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:113
+msgid ""
+"The \"simple\" doesn't have a border in the whole accordion, and the \"boxed"
+"\" has."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:115
+#: lib/magee-shortcodes-pro/inc/options.php:4627
+#: lib/magee-shortcodes-pro/inc/options.php:4707
+msgid "Simple Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:116
+msgid "Boxed Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:122
+msgid ""
+"The differance is in the right of accordion, \"1\" is a down arrow, and the "
+"\"2\" is a plus in a box"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:125
+msgid "Type 1"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:126
+msgid "Type 2"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:138
+msgid "Insert the title for the accordion item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:144
+msgid "Insert the content for the accordion item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:150
+msgid "Choose to have the accordion open or close when page loads."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:155
+msgid "Select Close Status Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:156
+#: lib/magee-shortcodes-pro/inc/options.php:162
+#: lib/magee-shortcodes-pro/inc/options.php:3803
+msgid "Click an icon to select, click again to deselect"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:161
+msgid "Select Open Status Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:170
+msgid "Accordion Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:171
+msgid "accordions-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:187
+#: lib/magee-shortcodes-pro/inc/options.php:610
+#: lib/magee-shortcodes-pro/inc/options.php:1253
+#: lib/magee-shortcodes-pro/inc/options.php:1594
+#: lib/magee-shortcodes-pro/inc/options.php:1945
+#: lib/magee-shortcodes-pro/inc/options.php:2513
+#: lib/magee-shortcodes-pro/inc/options.php:2832
+#: lib/magee-shortcodes-pro/inc/options.php:3187
+#: lib/magee-shortcodes-pro/inc/options.php:3199
+#: lib/magee-shortcodes-pro/inc/options.php:3211
+#: lib/magee-shortcodes-pro/inc/options.php:3223
+#: lib/magee-shortcodes-pro/inc/options.php:3235
+#: lib/magee-shortcodes-pro/inc/options.php:3647
+#: lib/magee-shortcodes-pro/inc/options.php:4018
+#: lib/magee-shortcodes-pro/inc/options.php:4548
+#: lib/magee-shortcodes-pro/inc/options.php:4750
+msgid "Click an icon to select, click again to deselect."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:192
+msgid "Warning! Better check yourself, you're not looking too good."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:194
+msgid "Alert Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:195
+msgid "Insert the content for the alert."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:202
+msgid "Set background color for alert box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:207
+#: lib/magee-shortcodes-pro/inc/options.php:603
+msgid "Text Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:208
+msgid "Set content color & border color for alert box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:217
+#: lib/magee-shortcodes-pro/inc/options.php:542
+#: lib/magee-shortcodes-pro/inc/options.php:2418
+#: lib/magee-shortcodes-pro/inc/options.php:3969
+msgid "Border Width"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:218
+#: lib/magee-shortcodes-pro/inc/options.php:227
+#: lib/magee-shortcodes-pro/inc/options.php:2403
+#: lib/magee-shortcodes-pro/inc/options.php:2411
+#: lib/magee-shortcodes-pro/inc/options.php:2419
+#: lib/magee-shortcodes-pro/inc/options.php:2468
+#: lib/magee-shortcodes-pro/inc/options.php:3058
+#: lib/magee-shortcodes-pro/inc/options.php:4358
+#: lib/magee-shortcodes-pro/inc/options.php:4395
+#: lib/magee-shortcodes-pro/inc/options.php:4403
+#: lib/magee-shortcodes-pro/inc/options.php:4411
+#: lib/magee-shortcodes-pro/inc/options.php:4419
+#: lib/magee-shortcodes-pro/inc/options.php:5041
+#: lib/magee-shortcodes-pro/inc/options.php:5047
+msgid "In pixels (px), eg: 1px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:226
+#: lib/magee-shortcodes-pro/inc/options.php:2467
+#: lib/magee-shortcodes-pro/inc/options.php:2733
+#: lib/magee-shortcodes-pro/inc/options.php:3057
+msgid "Border Radius"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:233
+msgid "Box Shadow"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:234
+msgid "Display a box shadow for alert."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:240
+msgid "Dismissable"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:241
+msgid "The alert box is dismissable."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:259
+msgid "Alert Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:260
+msgid "alert-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:272
+msgid "Type in speed of animation in seconds."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:279
+msgid "Select the type of animation."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:285
+msgid "Only images from content to be animated."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:301
+#: lib/magee-shortcodes-pro/inc/options.php:2096
+#: lib/magee-shortcodes-pro/inc/options.php:2476
+#: lib/magee-shortcodes-pro/inc/options.php:2915
+msgid "Your Content Goes Here"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:303
+msgid "Animation Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:304
+msgid "Insert the content to be animated."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:309
+msgid "Animation Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:322
+msgid "Mp3 URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:323
+msgid "Add the URL of audio in MP3 format."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:328
+msgid "Ogg URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:329
+msgid "Add the URL of audio in OGG format."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:334
+msgid "Wav URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:335
+msgid "Add the URL of audio in WAV format."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:339
+msgid "Mute Audio"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:340
+msgid "Choose to mute the audio."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:345
+msgid "Autoplay Audio"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:346
+msgid "Choose to autoplay the audio."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:351
+msgid "Loop Audio"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:352
+msgid "Choose to loop the audio."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:357
+msgid "Controls Audio"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:358
+msgid "Choose to display controls of the audio."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:375
+msgid "Audio Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:376
+msgid "audio-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:390
+msgid "List Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:391
+msgid "Style1: Image above content. Style2: Image beside content."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:392
+#: lib/magee-shortcodes-pro/inc/options.php:653
+msgid "Style 1"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:392
+#: lib/magee-shortcodes-pro/inc/options.php:654
+msgid "Style 2"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:392
+#: lib/magee-shortcodes-pro/inc/options.php:655
+msgid "Style 3"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:392
+msgid "Style 4 ( Timeline )"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:398
+msgid "Number of posts displayed."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:405
+msgid "Column"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:406
+msgid "Choose column number for blog list."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:414
+msgid "Choose a category of blog posts to display."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:419
+msgid "Display Page Navigation"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:420
+msgid "Choose to show page navigation for blog list."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:429
+#: lib/magee-shortcodes-pro/inc/options.php:3523
+msgid "Post Offset"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:430
+msgid "The number of posts to skip. ex: 1."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:435
+#: lib/magee-shortcodes-pro/inc/options.php:3528
+msgid "Exclude Categories"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:436
+#: lib/magee-shortcodes-pro/inc/options.php:3529
+msgid "Select a category to exclude."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:442
+msgid "Display Feature Images"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:443
+msgid "Choose to display the post featured image."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:448
+#: lib/magee-shortcodes-pro/inc/options.php:3544
+msgid "Display Title"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:449
+msgid "Choose to display the post title."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:454
+msgid "Display Meta"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:455
+msgid "Choose to show all meta data."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:460
+#: lib/magee-shortcodes-pro/inc/options.php:3556
+msgid "Display Excerpt"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:461
+msgid "Choose to display the post excerpt."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:468
+#: lib/magee-shortcodes-pro/inc/options.php:3564
+msgid "Insert the number of words/characters you want to show in the excerpt."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:472
+#: lib/magee-shortcodes-pro/inc/options.php:3568
+msgid "Strip HTML"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:473
+msgid "Strip HTML from the post excerpt."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:491
+msgid "Blog Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:504
+#: lib/magee-shortcodes-pro/inc/options.php:4709
+msgid "Button Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:505
+msgid "Select the button's default style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:508
+msgid "Dark"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:509
+msgid "Light"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:510
+msgid "2d"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:511
+msgid "3d"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:512
+msgid "Line"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:513
+msgid "Line Dark"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:514
+msgid "Line Light"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:521
+msgid "Button URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:522
+msgid "Add the button's url eg: http://example.com."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:527
+msgid "Button Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:528
+msgid "Select the button's size."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:530
+#: lib/magee-shortcodes-pro/inc/options.php:719
+#: lib/magee-shortcodes-pro/inc/options.php:2899
+msgid "Small"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:531
+msgid "Medium"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:532
+#: lib/magee-shortcodes-pro/inc/options.php:721
+#: lib/magee-shortcodes-pro/inc/options.php:2901
+msgid "Large"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:533
+msgid "XLarge"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:543
+msgid "In pixels (px), default: 2px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:548
+msgid "Button Shape"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:549
+msgid "Select the button's shape. Choose default for theme option selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:552
+#: lib/magee-shortcodes-pro/inc/options.php:708
+#: lib/magee-shortcodes-pro/inc/options.php:2858
+#: lib/magee-shortcodes-pro/inc/options.php:3279
+msgid "Square"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:554
+msgid "Full Rounded"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:559
+msgid "Text Shadow"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:560
+msgid "Display shadow for button text."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:565
+msgid "Gradient"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:566
+msgid "Display gradient for button."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:571
+msgid "Block Button"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:572
+msgid "Display in full width."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:579
+msgid "_self = open in same window <br />_blank = open in new window."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:589
+msgid "Button's Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:590
+msgid "Add the text that will display in the button."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:595
+msgid "Set background color for button."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:596
+#: lib/magee-shortcodes-pro/inc/options.php:3994
+msgid "Button Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:604
+msgid "Set content color & border color for button."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:616
+msgid "Icon Animation Type"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:617
+msgid "Select the type of animation to use on the button icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:635
+msgid "Button Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:636
+msgid "buttons-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:651
+msgid "Select the display style of carousel navigation."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:662
+msgid "Choose column number for carousel."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:664
+msgid "1 Column"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:665
+#: lib/magee-shortcodes-pro/inc/options.php:3460
+msgid "2 Columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:666
+#: lib/magee-shortcodes-pro/inc/options.php:3461
+msgid "3 Columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:667
+#: lib/magee-shortcodes-pro/inc/options.php:3462
+msgid "4 Columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:668
+#: lib/magee-shortcodes-pro/inc/options.php:3463
+msgid "5 Columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:669
+#: lib/magee-shortcodes-pro/inc/options.php:3464
+msgid "6 Columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:670
+msgid "7 Columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:671
+msgid "8 Columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:677
+msgid "Autoplay"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:678
+msgid "Choose to autoplay the carousel."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:685
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:686
+msgid "Set timeout for autoplay."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:691
+msgid "Display Navigation"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:692
+msgid "Choose to display navigation for carousel"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:699
+msgid "Nav Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:700
+msgid "Set color for carousel navigation."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:705
+msgid "Navigation Shape"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:706
+msgid "Set shape for carousel navigation."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:710
+#: lib/magee-shortcodes-pro/inc/options.php:2859
+msgid "Circle"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:716
+msgid "Navigation Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:717
+msgid "Set size for carousel navigation."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:720
+#: lib/magee-shortcodes-pro/inc/options.php:2601
+#: lib/magee-shortcodes-pro/inc/options.php:2900
+msgid "Middle"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:740
+msgid "Carousel Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:745
+#: lib/magee-shortcodes-pro/inc/options.php:747
+msgid "Carousel Item Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:755
+msgid "carousel-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:771
+#: lib/magee-shortcodes-pro/inc/options.php:855
+#: lib/magee-shortcodes-pro/inc/options.php:902
+#: lib/magee-shortcodes-pro/inc/options.php:991
+msgid "Canvas Width"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:779
+#: lib/magee-shortcodes-pro/inc/options.php:863
+#: lib/magee-shortcodes-pro/inc/options.php:910
+#: lib/magee-shortcodes-pro/inc/options.php:999
+msgid "Canvas Height"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:797
+#: lib/magee-shortcodes-pro/inc/options.php:928
+msgid "Label For Line"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:798
+msgid "separate multiple tags added to chart line with commas"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:802
+msgid "Chart Bar Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:808
+#: lib/magee-shortcodes-pro/inc/options.php:939
+msgid "Data"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:809
+#: lib/magee-shortcodes-pro/inc/options.php:940
+msgid "separate values for each set of data with commas"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:814
+#: lib/magee-shortcodes-pro/inc/options.php:945
+msgid "Fill Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:820
+#: lib/magee-shortcodes-pro/inc/options.php:951
+msgid "Fill Opacity"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:827
+#: lib/magee-shortcodes-pro/inc/options.php:958
+msgid "Stroke Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:833
+msgid "Stroke Opacity"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:886
+msgid "Chart Doughnut Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:933
+msgid "Chart Line Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:964
+msgid "Point Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:970
+msgid "Point Stroke Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1022
+msgid "Chart Pie Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1036
+msgid "Column Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1037
+msgid "columns-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1042
+msgid "Column Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1043
+msgid "Select the size of column."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1045
+#: lib/magee-shortcodes-pro/inc/options.php:1236
+msgid "1/1"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1046
+#: lib/magee-shortcodes-pro/inc/options.php:1237
+msgid "1/2"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1047
+#: lib/magee-shortcodes-pro/inc/options.php:1238
+msgid "1/3"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1048
+#: lib/magee-shortcodes-pro/inc/options.php:1239
+msgid "1/4"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1049
+#: lib/magee-shortcodes-pro/inc/options.php:1240
+msgid "1/5"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1050
+#: lib/magee-shortcodes-pro/inc/options.php:1241
+msgid "1/6"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1051
+#: lib/magee-shortcodes-pro/inc/options.php:1242
+msgid "2/3"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1052
+#: lib/magee-shortcodes-pro/inc/options.php:1243
+msgid "2/5"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1053
+#: lib/magee-shortcodes-pro/inc/options.php:1244
+msgid "3/4"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1054
+#: lib/magee-shortcodes-pro/inc/options.php:1245
+msgid "3/5"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1055
+#: lib/magee-shortcodes-pro/inc/options.php:1246
+msgid "4/5"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1056
+#: lib/magee-shortcodes-pro/inc/options.php:1247
+msgid "5/6"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1061
+msgid "Column Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1063
+msgid " Column Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1064
+msgid "Insert the column's content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1069
+msgid "Content Align"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1107
+msgid "Receiver Email"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1108
+msgid "Set receiver email address for contact form."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1116
+msgid "Choose style for contact form."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1118
+#: lib/magee-shortcodes-pro/inc/options.php:3450
+#: lib/magee-shortcodes-pro/inc/options.php:3842
+#: lib/magee-shortcodes-pro/inc/options.php:4628
+#: lib/magee-shortcodes-pro/inc/options.php:4711
+msgid "Normal Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1119
+msgid "Classic Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1120
+msgid "Outline Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1121
+msgid "Background Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1127
+msgid "Button / Border Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1128
+msgid "Set main color for contact form."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1133
+msgid "Display Terms Check Box"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1134
+msgid "Choose to display terms check box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1141
+msgid "Terms Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1142
+msgid "Insert content for terms of contact form."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1161
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1177
+msgid "Set end time for countdown."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1185
+msgid "Set font color for countdown."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1192
+msgid "Set background color for countdown."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1211
+msgid "Countdowns Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1212
+msgid "countdowns-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1233
+msgid "Box Width"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1234
+msgid "Select size of counter box"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1252
+msgid "Top Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1259
+msgid "Top Icon Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1260
+msgid "Set color for top icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1265
+msgid "Middle Left Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1266
+msgid "Insert text before the number."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1273
+msgid "Middle Left Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1274
+msgid "Left text of counter num"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1282
+msgid "Counter Num"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1283
+msgid "The animated counter number."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1288
+msgid "Middle Right Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1289
+msgid "Insert text after the number."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1295
+msgid "Bottom Title"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1296
+msgid "Insert Title for counter."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1301
+msgid "Display Border"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1302
+msgid "Choose to display border for counter."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1324
+msgid "Counter Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1325
+msgid "counter-box-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1336
+msgid "Custom Box Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1339
+msgid "Insert content for custom box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1343
+#: lib/magee-shortcodes-pro/inc/options.php:4311
+msgid "Background Image"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1344
+msgid "Upload an image to display in background of custom box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1349
+msgid "Fixed Background"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1350
+msgid "Choose to fixed Background Image"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1357
+msgid "Choose the postion of the background image"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1362
+#: lib/magee-shortcodes-pro/inc/options.php:4337
+msgid "Center Left"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1363
+#: lib/magee-shortcodes-pro/inc/options.php:4338
+msgid "Center Center"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1364
+#: lib/magee-shortcodes-pro/inc/options.php:4339
+msgid "Center Right"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1375
+#: lib/magee-shortcodes-pro/inc/options.php:5293
+msgid "Padding"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1376
+msgid "Content Padding. eg:30px"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1392
+msgid " Custom Box Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1393
+msgid "custom-box-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1408
+msgid "Dailymotion URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1409
+#: lib/magee-shortcodes-pro/inc/options.php:5117
+#: lib/magee-shortcodes-pro/inc/options.php:5198
+msgid "Add the URL the video will link to, ex: http://example.com."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1415
+#: lib/magee-shortcodes-pro/inc/options.php:1421
+#: lib/magee-shortcodes-pro/inc/options.php:5123
+#: lib/magee-shortcodes-pro/inc/options.php:5129
+#: lib/magee-shortcodes-pro/inc/options.php:5204
+#: lib/magee-shortcodes-pro/inc/options.php:5210
+msgid "In pixels (px), eg:1px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1426
+#: lib/magee-shortcodes-pro/inc/options.php:5052
+#: lib/magee-shortcodes-pro/inc/options.php:5134
+#: lib/magee-shortcodes-pro/inc/options.php:5215
+msgid "Mute Video"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1427
+#: lib/magee-shortcodes-pro/inc/options.php:5053
+#: lib/magee-shortcodes-pro/inc/options.php:5135
+#: lib/magee-shortcodes-pro/inc/options.php:5216
+msgid "Choose to mute the video."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1433
+#: lib/magee-shortcodes-pro/inc/options.php:5059
+#: lib/magee-shortcodes-pro/inc/options.php:5141
+#: lib/magee-shortcodes-pro/inc/options.php:5222
+msgid "Autoplay Video"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1434
+#: lib/magee-shortcodes-pro/inc/options.php:5060
+#: lib/magee-shortcodes-pro/inc/options.php:5142
+#: lib/magee-shortcodes-pro/inc/options.php:5223
+msgid "Choose to autoplay the video."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1443
+#: lib/magee-shortcodes-pro/inc/options.php:5069
+#: lib/magee-shortcodes-pro/inc/options.php:5151
+#: lib/magee-shortcodes-pro/inc/options.php:5232
+msgid "Loop Video"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1444
+#: lib/magee-shortcodes-pro/inc/options.php:5070
+#: lib/magee-shortcodes-pro/inc/options.php:5152
+#: lib/magee-shortcodes-pro/inc/options.php:5233
+msgid "Choose to loop the video."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1453
+#: lib/magee-shortcodes-pro/inc/options.php:5079
+#: lib/magee-shortcodes-pro/inc/options.php:5161
+#: lib/magee-shortcodes-pro/inc/options.php:5242
+msgid "Show Controls"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1454
+#: lib/magee-shortcodes-pro/inc/options.php:5080
+#: lib/magee-shortcodes-pro/inc/options.php:5162
+#: lib/magee-shortcodes-pro/inc/options.php:5243
+msgid "Choose to display controls for the video player."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1463
+msgid "Highlight Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1464
+msgid "Set color for highlights"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1469
+msgid "Show Logo"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1470
+msgid "Choose to display logo "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1476
+msgid "Show Info"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1477
+msgid "Choose to display video info"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1483
+msgid "Show Related Videos"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1484
+msgid "Choose to display related videos"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1490
+msgid "Quality"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1491
+msgid "Select the default video playback quality"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1493
+msgid "240"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1494
+msgid "380"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1495
+msgid "480"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1496
+msgid "720"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1497
+msgid "1080"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1514
+msgid "Dailymotion Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1515
+msgid "dailymotion-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1529
+msgid "Divider Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1530
+msgid "Select the Divider's Style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1533
+msgid "Shadow"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1534
+#: lib/magee-shortcodes-pro/inc/options.php:4376
+msgid "Dashed"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1535
+#: lib/magee-shortcodes-pro/inc/options.php:4375
+msgid "Dotted"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1536
+msgid "Double Line"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1537
+msgid "Double Dashed"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1538
+msgid "Double Dotted"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1541
+msgid "Back to Top"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1548
+msgid "In pixels. Default: 100%"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1553
+msgid "When the width is not 100%."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1564
+#: lib/magee-shortcodes-pro/inc/options.php:2402
+msgid "Margin Top"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1565
+msgid "Spacing above the separator. In pixels."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1572
+#: lib/magee-shortcodes-pro/inc/options.php:2410
+msgid "Margin Bottom"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1573
+msgid "Spacing under the separator. In pixels."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1581
+#: lib/magee-shortcodes-pro/inc/options.php:4357
+msgid "Border Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1582
+msgid "In pixels (px), eg: 1px. "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1587
+#: lib/magee-shortcodes-pro/inc/options.php:2361
+#: lib/magee-shortcodes-pro/inc/options.php:3042
+#: lib/magee-shortcodes-pro/inc/options.php:3961
+#: lib/magee-shortcodes-pro/inc/options.php:4364
+msgid "Border Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1588
+msgid "Set the border color."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1612
+msgid "Divider Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1613
+msgid "divider-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1627
+msgid "Doc URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1628
+msgid "Upload document to display. Supported formats: doc, xls, pdf etc."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1636
+msgid "Set width for doc."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1644
+msgid "Set height for doc."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1648
+msgid "Responsive"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1649
+msgid "Choose to responsive or not"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1654
+msgid "Viewer"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1655
+msgid "Choose viewer for document."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1657
+msgid "Google"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1658
+msgid "Microsoft"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1675
+msgid "Document Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1676
+msgid "document-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1690
+msgid "Dropcap Letter"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1691
+msgid "Add the letter to be used as dropcap"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1696
+msgid ""
+"Controls the color of the dropcap letter. Leave blank for theme option "
+"selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1700
+msgid "Boxed Dropcap"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1701
+msgid "Choose to get a boxed dropcap."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1709
+msgid "Box Radius"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1710
+msgid "Choose the radius of the boxed dropcap. In pixels (px), eg: 1px"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1726
+msgid "Dropcap Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1727
+msgid "dropcap-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1741
+msgid "Select style for dummy image"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1743
+msgid "Any"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1744
+msgid "Transport"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1745
+msgid "Technics"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1746
+msgid "People"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1747
+msgid "Sports"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1748
+msgid "Cats"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1749
+msgid "City"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1750
+msgid "Food"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1751
+msgid "Night life"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1752
+msgid "Fashion"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1753
+msgid "Animals"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1754
+msgid "Business"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1755
+msgid "Nature"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1756
+msgid "Abstract"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1765
+msgid "Set width for image."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1773
+msgid "Set height for image."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1790
+msgid "Dummy Image Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1791
+msgid "dummy-image-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1806
+msgid "Select text type."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1808
+msgid "Paragraphs"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1809
+msgid "Words"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1810
+msgid "Bytes"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1818
+msgid "Amount"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1819
+msgid "Choose how many paragraphs or words to show"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1835
+msgid "Dummy Text Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1836
+msgid "dummy-text-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1850
+msgid "More Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1851
+msgid ""
+"Set icon for expand title. Click an icon to select, click again to deselect."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1857
+msgid "More Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1858
+msgid "Set text for expand title."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1862
+msgid "Less Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1863
+msgid ""
+"Set icon for fold title. Click an icon to select, click again to deselect."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1869
+msgid "Less Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1870
+msgid "Set text for fold title. "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1876
+msgid "This text block can be expanded."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1892
+msgid "Expand Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1893
+msgid "expand-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1906
+msgid "Feature Box Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1907
+msgid "Select the Feature Box's Style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1909
+msgid "Icon on Top of Title"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1910
+msgid "Icon Beside Title and Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1911
+msgid "Icon Beside Title"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1912
+#: lib/magee-shortcodes-pro/inc/options.php:3955
+#: lib/magee-shortcodes-pro/inc/options.php:4585
+msgid "Boxed"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1920
+msgid "Insert title for feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1928
+msgid "Title Font Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1929
+msgid "Set font size for title of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1933
+#: lib/magee-shortcodes-pro/inc/options.php:3036
+#: lib/magee-shortcodes-pro/inc/options.php:4719
+msgid "Title Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1934
+msgid "Set color for title of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1938
+msgid "Icon Hover Animation"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1939
+msgid "Select the Icon's Animation."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1953
+#: lib/magee-shortcodes-pro/inc/options.php:2521
+#: lib/magee-shortcodes-pro/inc/options.php:4556
+msgid "Icon Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1954
+msgid "Set size for icon of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1958
+#: lib/magee-shortcodes-pro/inc/options.php:2527
+#: lib/magee-shortcodes-pro/inc/options.php:2837
+#: lib/magee-shortcodes-pro/inc/options.php:4561
+msgid "Icon Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1959
+msgid "Set color for icon of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1963
+msgid "Icon Border Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1964
+msgid "Set border color for icon of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1971
+msgid "Icon Border Width"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1972
+msgid "Set border width for icon of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1978
+msgid "Flip Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1979
+msgid "Choose to flip the icon of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1982
+#: lib/magee-shortcodes-pro/inc/options.php:2121
+msgid "Horizontal"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1983
+#: lib/magee-shortcodes-pro/inc/options.php:2122
+msgid "Vertical"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1990
+msgid "Spinning Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1991
+msgid "Choose to spin the icon of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1997
+#: lib/magee-shortcodes-pro/inc/options.php:2850
+#: lib/magee-shortcodes-pro/inc/options.php:3988
+#: lib/magee-shortcodes-pro/inc/options.php:4566
+msgid "Icon Circle Background Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:1998
+msgid "Set background for icon circle of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2004
+msgid "Icon Alignment"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2005
+msgid "Set alignment for style2/style3 of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2015
+msgid "Icon Circle"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2016
+msgid "Choose to display icon of feature box in circle."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2023
+msgid "Icon Image"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2024
+msgid "To upload your own icon image, remember to deselect icon above."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2031
+msgid "Icon Image Width"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2032
+msgid ""
+"If using custom icon image, set icon image width. In percentage of pixels "
+"(px), eg: 1px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2039
+msgid "Icon Image Height"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2040
+msgid ""
+"If using custom icon image, set icon image height. In percentage of pixels "
+"(px), eg: 1px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2047
+msgid "Link URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2048
+msgid "Set link for feature box, eg: http://example.com."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2053
+#: lib/magee-shortcodes-pro/inc/options.php:2579
+#: lib/magee-shortcodes-pro/inc/options.php:2720
+#: lib/magee-shortcodes-pro/inc/options.php:3111
+#: lib/magee-shortcodes-pro/inc/options.php:3691
+msgid "Link Target"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2054
+#: lib/magee-shortcodes-pro/inc/options.php:2721
+#: lib/magee-shortcodes-pro/inc/options.php:3112
+msgid "_self = open in same window _blank = open in new window."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2056
+#: lib/magee-shortcodes-pro/inc/options.php:2581
+#: lib/magee-shortcodes-pro/inc/options.php:2723
+#: lib/magee-shortcodes-pro/inc/options.php:3114
+msgid "_blank"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2057
+#: lib/magee-shortcodes-pro/inc/options.php:2582
+#: lib/magee-shortcodes-pro/inc/options.php:2724
+#: lib/magee-shortcodes-pro/inc/options.php:3115
+msgid "_self"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2064
+msgid "Link Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2065
+msgid ""
+"Insert link text for feature box. It would not display if you leave it as "
+"blank."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2069
+msgid "Link Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2070
+msgid "Set color for link of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2074
+msgid "Content Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2075
+msgid "Set color for content of feature box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2079
+msgid "Set box background color for Boxed Style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2080
+msgid "For Boxed Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2098
+msgid "Feature Box Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2103
+msgid "Feature Box Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2104
+msgid "feature-box-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2118
+msgid "Direction"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2119
+msgid "Select flip directioon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2123
+msgid "Flip Left"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2124
+msgid "Flip Right"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2125
+msgid "Flip Top"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2126
+msgid "Flip Bottom"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2127
+msgid "Slide Left"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2128
+msgid "Slide Right"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2129
+msgid "Slide Top"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2130
+msgid "Slide Bottom"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2138
+msgid "Front Container Paddings"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2139
+msgid "Set paddings for front container of flip box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2144
+msgid "Front Background Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2145
+msgid "Set background color for front container of flip box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2150
+msgid "Front Font Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2151
+#: lib/magee-shortcodes-pro/inc/options.php:2177
+msgid "Custom setting only. Set the background color for custom alert boxes."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2154
+msgid "Front Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2156
+msgid "Front content."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2157
+msgid "Insert content for front container of flip box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2164
+msgid "Back Container Paddings"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2165
+msgid "Set paddings for back container of flip box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2170
+msgid "Back Background Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2171
+msgid "Set background color for back container of flip box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2176
+msgid "Back Font Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2180
+msgid "Back Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2182
+msgid "Back Content."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2183
+msgid "Insert content for back container of flip box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2200
+msgid "Flip Box Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2201
+msgid "flip-box-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2214
+msgid "Map Type"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2215
+msgid "Select the type of google map to display."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2217
+msgid "Roadmap"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2218
+msgid "Satellite"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2219
+msgid "Hybrid"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2220
+msgid "Terrain"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2226
+msgid "Map Width"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2227
+msgid "Map width in percentage or pixels. ex: 100%, or 940px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2232
+msgid "Map Height"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2233
+msgid "Map height in pixels. ex: 300px"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2238
+msgid "Zoom Level"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2239
+msgid "Higher number will be more zoomed in."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2244
+msgid "Scrollwheel on Map"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2245
+msgid "Enable zooming using a mouse's scroll wheel."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2250
+msgid "Show Scale Control on Map"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2251
+msgid "Display the map scale."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2256
+msgid "Show Pan Control on Map"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2257
+msgid "Displays pan control button."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2262
+msgid "Address Pin Animation"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2263
+msgid "Choose to animate the address pins when the map first loads."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2268
+msgid "Show tooltip by default"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2269
+msgid "Display or hide the tooltip when the map first loads."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2275
+msgid "Map Overlay Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2276
+msgid ""
+"Custom styling setting only. Pick an overlaying color for the map. Works "
+"best with \"roadmap\" type."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2282
+msgid "Infobox Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2283
+msgid ""
+"Custom styling setting only. Type in custom info box content to replace "
+"address string. For multiple addresses, separate info box contents by using "
+"the | symbol. ex: InfoBox 1|InfoBox 2|InfoBox 3"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2287
+msgid "Info Box Text Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2288
+msgid "Custom styling setting only. Pick a color for the info box text."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2292
+msgid "Info Box Background Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2293
+msgid "Custom styling setting only. Pick a color for the info box background."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2298
+msgid "Custom Marker Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2299
+msgid ""
+"Custom styling setting only. Use full image urls for custom marker icons or "
+"input \"theme\" for our custom marker. For multiple addresses, separate "
+"icons by using the | symbol or use one for all. ex: Icon 1|Icon 2|Icon 3"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2304
+msgid "Address"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2305
+msgid ""
+"Add address to the location which will show up on map. For multiple "
+"addresses, separate addresses by using the | symbol. <br />ex: Address 1|"
+"Address 2|Address 3"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2321
+msgid "Google Map Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2337
+msgid "Insert heading text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2344
+msgid "Choose a heading style. Leave blank as default."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2357
+msgid "Set color for heading text."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2362
+msgid "Set border color for heading."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2368
+msgid "Set text align for this heading."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2374
+msgid "Font Weight"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2375
+msgid "Set font weight for heading text."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2394
+#: lib/magee-shortcodes-pro/inc/options.php:3314
+msgid "Font Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2395
+msgid "Set font size for heading text. In pixels (px), eg: 1px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2424
+msgid "Responsive Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2425
+msgid "Choose to display responsive text."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2444
+msgid "Heading Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2445
+msgid "heading-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2460
+msgid "Set background color for highlight item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2473
+msgid "Set font color for highlight item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2478
+msgid "Content to Higlight"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2479
+msgid "Insert content to highlight."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2496
+msgid "Highlight Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2497
+msgid "highlight-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2522
+msgid "Set text size for item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2528
+#: lib/magee-shortcodes-pro/inc/options.php:4562
+msgid "Set color for icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2533
+msgid "Icon Box"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2534
+msgid "Choose to display boxed icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2552
+msgid "Icon Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2553
+msgid "icon-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2573
+msgid "Image Link"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2588
+msgid "Horizontal Align"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2589
+msgid "Content horizontal align."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2598
+msgid "Vertical Align"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2599
+msgid "Content vertical align."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2602
+#: lib/magee-shortcodes-pro/inc/options.php:3387
+#: lib/magee-shortcodes-pro/inc/options.php:3980
+#: lib/magee-shortcodes-pro/inc/options.php:4960
+msgid "Top"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2603
+#: lib/magee-shortcodes-pro/inc/options.php:3388
+#: lib/magee-shortcodes-pro/inc/options.php:3981
+#: lib/magee-shortcodes-pro/inc/options.php:4961
+msgid "Bottom"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2609
+msgid "Zoom Effect"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2610
+msgid "Image zoom effect."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2612
+msgid "In"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2613
+msgid "Out"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2638
+msgid "Image Banner Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2654
+msgid "Select how the image compare display."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2663
+#: lib/magee-shortcodes-pro/inc/options.php:3287
+#: lib/magee-shortcodes-pro/inc/options.php:3881
+msgid "Percent"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2664
+msgid "Choose default offset pct"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2670
+msgid "Image Left"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2671
+msgid "Insert the image displayed in the left."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2676
+msgid "Image Right"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2677
+msgid "Insert the image displayed in the right."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2693
+msgid "Image Compare Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2694
+msgid "image-compare-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2709
+#: lib/magee-shortcodes-pro/inc/options.php:3141
+msgid "Upload an image to display."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2714
+msgid "Image Link URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2715
+#: lib/magee-shortcodes-pro/inc/options.php:3147
+msgid "Add the URL the picture will link to, ex: http://example.com."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2734
+msgid ""
+"Choose the border radius of the image frame. In pixels (px), ex: 1px, or "
+"\"round\".  Leave blank for theme option selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2739
+msgid "Light Box"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2740
+msgid "Choose to display light box once click."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2758
+msgid "Image Frame Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2759
+msgid "image-frame-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2776
+msgid "Insert text to be displayed in label."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2782
+msgid "Set background color for label."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2786
+msgid "Label Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2787
+msgid "label-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2799
+msgid "Item Border"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2800
+msgid "Choose to display item border for list."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2810
+msgid "Item Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2811
+msgid "Set text font size for item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2838
+msgid "Set color fo list icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2842
+msgid "Icon Boxed"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2843
+msgid "Choose to set icon boxed."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2851
+msgid "Set background color for list icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2855
+msgid "Boxed Shape"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2856
+msgid "Choose boxed shape for list icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2865
+msgid "Insert title for list item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2870
+msgid "List Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2871
+msgid "list-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2885
+msgid "Modal Anchor Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2886
+msgid "Insert anchor text for the modal."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2891
+msgid "Modal Heading"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2892
+msgid "Insert heading text for the modal."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2896
+msgid "Size Of Modal"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2897
+msgid "Select the modal window size."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2907
+msgid "Show Footer"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2908
+msgid "Choose to show the modal footer with close button."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2917
+msgid "Contents of Modal"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2918
+msgid "Add your content to be displayed in modal."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2934
+msgid "Modal Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2935
+msgid "modal-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2949
+msgid "Select a menu"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:2966
+msgid "Menu Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3023
+msgid "Insert title for panel."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3026
+msgid "Panel content."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3028
+msgid "Panel Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3029
+msgid "Insert content for panel."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3037
+msgid "Set color for panel title."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3043
+msgid "Set color for panel border."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3049
+msgid "Title Background Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3050
+msgid "Set background color for panel title."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3074
+msgid "Panel Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3075
+msgid "panel-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3090
+msgid "Choose to display info below or beside the image."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3092
+msgid "Below"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3093
+msgid "Beside"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3100
+msgid "Insert the name of the person."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3106
+msgid "Insert the title of the person"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3122
+msgid "Image Overlay Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3123
+msgid "Select a hover color to show over the image as an overlay."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3128
+msgid "Image Overlay Opacity"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3129
+msgid "Opacity ranges between 0 (transparent) and 1 (opaque). ex: .5"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3135
+msgid "Profile Description"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3136
+msgid "Insert profile description."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3140
+msgid "Picture"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3146
+msgid "Picture Link URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3154
+msgid "Picture Border Size"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3155
+msgid "In pixels (px), ex: 1px. Leave blank for theme option selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3159
+msgid "Picture Border Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3160
+msgid ""
+"Controls the picture's border color. Leave blank for theme option selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3167
+msgid "Picture Border Radius"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3168
+msgid ""
+"Choose the border radius of the person image. In pixels (px), ex: 1px, or "
+"\"round\".  Leave blank for theme option selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3175
+msgid "Social Icon Box Radius"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3176
+msgid ""
+"Choose the border radius of the boxed icons. In pixels (px), ex: 1px, or "
+"\"round\". Leave blank for theme option selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3181
+msgid "Social Icon Custom Colors"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3182
+msgid ""
+"Controls the Icon's border color. Leave blank for theme option selection."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3186
+msgid "Icon1"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3193
+msgid "Link1 "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3194
+msgid "The Icon1 Link "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3198
+msgid "Icon2"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3205
+msgid "Link2 "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3206
+msgid "The Icon2 Link "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3210
+msgid "Icon3"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3217
+msgid "Link3 "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3218
+msgid "The Icon3 Link "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3222
+msgid "Icon4"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3229
+msgid "Link4"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3230
+msgid "The Icon4 Link "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3234
+msgid "Icon5"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3241
+msgid "Link5"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3242
+msgid "The Icon5 Link "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3258
+msgid "Person Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3259
+msgid "person-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3274
+msgid "Line Cap"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3275
+msgid "Select how the ending of the bar line looks like."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3277
+msgid "Round"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3278
+msgid "Butt"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3288
+msgid "From 1 to 100."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3297
+msgid "Insert title for piechart. It need to be short."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3306
+msgid "Set size for piechart."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3315
+msgid "Set font size for piechart title."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3320
+msgid "Filled Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3321
+msgid "Set color for filled area in piechart."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3326
+msgid "Unfilled Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3327
+msgid "Set color for unfilled area in piechart."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3340
+msgid "Piechart Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3341
+msgid "piechart-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3355
+msgid "Popover Heading"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3356
+msgid "Insert heading text of the popover."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3361
+msgid "Triggering Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3362
+msgid "Content that will trigger the popover."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3369
+msgid "Contents Inside Popover"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3370
+msgid "Text to be displayed inside the popover."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3375
+msgid "Popover Trigger Method"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3376
+msgid "Choose mouse action to trigger popover."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3378
+#: lib/magee-shortcodes-pro/inc/options.php:4972
+msgid "Click"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3379
+#: lib/magee-shortcodes-pro/inc/options.php:4971
+msgid "Hover"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3384
+msgid "Popover Position"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3385
+msgid "Choose the display position of the popover."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3408
+msgid "Popover Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3409
+msgid "popover-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3428
+msgid "Set list number for portfolios."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3433
+msgid "Choose a category to display."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3438
+msgid "Layout"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3439
+msgid "Choose to display portfolios in grid or carousel layout."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3441
+msgid "Grid"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3442
+msgid "Carousel"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3448
+msgid "Choose to display portfolios in normal/full style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3457
+msgid "Choose column number for portfolio list."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3471
+msgid "Overlay Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3472
+msgid "Select overlay content for portfolios."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3474
+msgid "Button"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3476
+msgid "Title & Tags"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3477
+msgid "Link Light"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3478
+msgid "Image Zoom In"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3485
+msgid "Overlay Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3486
+msgid "Set overlay background color."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3491
+msgid "Overlay Opacity"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3498
+msgid "Orientation"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3499
+msgid "Select orientation for overlay animation."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3510
+msgid "Display Page Nav"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3511
+msgid "Choose to display page navigation for portolio list."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3516
+msgid "Filter"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3517
+msgid "Choose to display filter for portolio list."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3524
+msgid "Choose to display filter for portolio list.eg:1."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3534
+msgid "Info Align"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3535
+msgid "Set align of portoflio info."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3545
+msgid "Choose to display the portfolio title below the featured image"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3550
+msgid "Display Tags"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3551
+msgid "Choose to show portfolio tags."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3557
+msgid "Choose to display the portfolio excerpt."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3569
+msgid "Strip HTML from the post excerpt"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3588
+msgid "Portfolio Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3603
+msgid "Select display style for pricing table."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3615
+msgid "Set number of pricing boxes."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3639
+msgid "Pricing Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3656
+msgid "Insert title for pricing box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3662
+msgid "Inser number for pricing box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3668
+msgid "Inser currency for pricing box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3674
+msgid "Inser unit for pricing box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3680
+msgid "Inser text for button of pricing box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3686
+msgid "Inser link for button of pricing box, eg: http://example.com."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3692
+msgid "_self = open in same window, _blank = open in new window."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3704
+msgid "Choose to set pricing box as featured."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3711
+msgid "Standout"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3712
+msgid "Choose to set pricing box as standout."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3721
+msgid "Set primary color for pricing box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3727
+msgid "Is Label? (For table style)"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3728
+msgid "Choose to set pricing box as label for table style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3736
+msgid ""
+"Insert features for pricing box. Each feature between "
+"[ms_pricing_item_features][/ms_pricing_item_features]."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3761
+msgid "Select how the process steps display."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3770
+msgid "Set columns for horizontal style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3794
+msgid "Process Steps Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3802
+msgid "Select Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3811
+msgid "Insert title for process steps item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3818
+msgid "Insert description for process steps item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3840
+msgid "Choose the show of progress bar."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3843
+msgid "Circle Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3849
+#: lib/magee-shortcodes-pro/inc/options.php:3853
+#: lib/magee-shortcodes-pro/inc/options.php:4633
+msgid "Striped"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3850
+msgid "Choose to get the filled area striped."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3852
+msgid "None Striped"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3854
+msgid "Striped Animated"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3861
+msgid "Choose to set the progress bar as rounded."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3863
+msgid "On"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3864
+msgid "Off"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3870
+msgid "Display  Number"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3871
+msgid "Choose to diplay number for progress bar."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3882
+msgid "Set percentage for progress bar. 0~100."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3889
+msgid "Insert text for progress bar."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3898
+msgid "Set height for progress bar."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3906
+msgid "Set background color for filled area in progress bar."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3911
+msgid "Text Position"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3912
+msgid "Choose text position for progress bar."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3914
+msgid "Text on Progress bars"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3915
+msgid "Text above progress bars"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3936
+msgid "Progress Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3937
+msgid "progress-bar-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3952
+msgid "Select style for promo box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3962
+msgid "Set color for highlight border of promo box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3970
+msgid "Set width for highlight border of promo box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3975
+msgid "Border Position"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3976
+msgid "Choose position for highlight border of promo box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:3989
+msgid "Set background color for promo box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4002
+msgid "Inser text for button of promo box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4007
+msgid "Button Text Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4012
+msgid "Button Link URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4013
+msgid "Inser link for button of promo box, eg: http://example.com."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4025
+msgid "Insert content for promo box."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4041
+msgid "Promo Box Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4042
+msgid "promo-box-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4056
+msgid "Set alignment for pullquote."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4066
+msgid "Insert content for pullquote."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4083
+msgid "Pullquote Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4084
+msgid "pullquote-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4100
+msgid "The text to store within the QR code. Any text or URL is available."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4105
+msgid "Alternative text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4106
+msgid "Set image alt for QR code."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4113
+msgid "Size in pixel"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4114
+msgid "Image width and height."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4119
+msgid "QRCode clickable?"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4120
+msgid "Choose to make this QR code clickable."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4129
+msgid "Foreground Color"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4130
+msgid "Set foreground Color for QR code."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4136
+msgid "Set background Color for QR code."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4140
+msgid "QR Code Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4141
+msgid "qr-code-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4155
+msgid "Cite"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4156
+msgid "Author name for quote."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4161
+msgid "Cite Link"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4162
+msgid "Insert Url for the quote author. Leave empty to disable hyperlink."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4168
+msgid "Insert content for the quote."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4184
+msgid "Quote Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4185
+msgid "quote-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4200
+msgid "Feed URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4201
+msgid "Url of RSS Feed."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4208
+msgid "Number to Display"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4209
+msgid "Number of items to show."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4225
+msgid "RSS Feed Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4226
+msgid "rss-feed-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4241
+#: lib/magee-shortcodes-pro/inc/options.php:4923
+msgid "Time"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4242
+msgid ""
+"Select an random time in one day to show content.</br>Example: 6-12,13-16  "
+"show content from  6:00 to 12:00 and from 13:00 to 16:00"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4247
+msgid "Days of Week"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4248
+msgid ""
+"Select days from one week to show content.</br>1 => Monday </br>2 => "
+"Tuesday  </br> 3 => Wednesday</br> 4 => Thursday  </br> 5 => Friday  </br> 6 "
+"=> Saturday </br>  7 => Sunday </br>Examples:1-5,7 =>show content at Sunday "
+"and from Monday to Friday"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4253
+msgid "Days of Month"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4254
+msgid ""
+"Select days from one month to show content.</br>Examples:</br>1 => show "
+"content only at first day of  month </br> 10-25 => show content from 10th to "
+"25th </br> 10-15,20-25 => show content from 10th to 15th and from 20th to "
+"25th"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4259
+msgid "Months"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4260
+msgid ""
+"Select months from a year to show content.</br>Examples:</br>1 => show "
+"content in January </br> 3-6 => show content from March to June </br> "
+"1,5,8-9 => show content in January,May and from August to September"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4265
+msgid "Years"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4266
+msgid ""
+"Select years to show content.</br>Examples:</br> 2016 => show content in "
+"2016 </br>2014-2016 => show content from 2014 to 2016 </br> "
+"2016,2017,2345-2666 => show content in 2016,2017 and from 2345 to 2666"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4284
+msgid "Insert scheduled content."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4288
+msgid "Scheduled Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4289
+msgid "scheduled-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4305
+msgid "Set background for section. Leave blank for transparent."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4312
+msgid "Upload an image to display in the background."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4317
+msgid "Choose repeat style for the background image."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4320
+msgid "Repeat"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4321
+msgid "Repeat-x"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4322
+msgid "Repeat-y"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4323
+msgid "No-repeat"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4324
+#: lib/magee-shortcodes-pro/inc/options.php:4384
+msgid "Inherit"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4331
+msgid "Choose the postion of the background image."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4347
+msgid "Background Parallax"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4348
+msgid "Choose how the background image scrolls and responds."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4365
+msgid "Set border color for section."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4369
+msgid "Border Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4370
+msgid "Select border style for section"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4374
+msgid "Hidden"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4377
+msgid "Solid"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4378
+msgid "Double"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4379
+msgid "Groove"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4380
+msgid "Ridge"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4381
+msgid "Inset"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4382
+msgid "Outset"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4383
+msgid "Initial"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4410
+msgid "Padding Left"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4418
+msgid "Padding Right"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4423
+msgid "Contents in Container ?"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4424
+msgid "Put the content in container."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4430
+msgid "Section content."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4433
+msgid "Insert content for section."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4439
+msgid "Top Separator"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4443
+#: lib/magee-shortcodes-pro/inc/options.php:4463
+msgid "Triangle"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4444
+msgid "Doublediagonal"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4445
+#: lib/magee-shortcodes-pro/inc/options.php:4464
+msgid "Halfcircle"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4446
+#: lib/magee-shortcodes-pro/inc/options.php:4465
+msgid "Bigtriangle"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4447
+#: lib/magee-shortcodes-pro/inc/options.php:4466
+msgid "Bighalfcircle"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4448
+#: lib/magee-shortcodes-pro/inc/options.php:4467
+msgid "Curl"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4449
+#: lib/magee-shortcodes-pro/inc/options.php:4468
+msgid "Multitriangles"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4450
+msgid "Roundedsplit"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4451
+#: lib/magee-shortcodes-pro/inc/options.php:4471
+msgid "Boxes"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4452
+#: lib/magee-shortcodes-pro/inc/options.php:4472
+msgid "Zigzag"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4453
+msgid "Clouds"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4459
+msgid "Bottom Separator"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4469
+msgid "Roundedcorners"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4470
+msgid "Foldedcorner"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4473
+msgid "Stamp"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4479
+msgid "Full Height"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4480
+msgid "Choose to set the section height same as browser window."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4497
+msgid "Section Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4498
+msgid "section-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4527
+msgid "slider-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4542
+msgid "Title "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4543
+msgid "Insert the title for the social icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4557
+msgid "In pixels (px), eg: 13px."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4567
+msgid "Set background color for icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4572
+msgid "Icon 3D effect"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4573
+msgid "Display box shadow for icon."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4581
+msgid "Icon Box Radius Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4587
+msgid "Circle "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4593
+msgid "Icon Link URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4594
+msgid "Add the icon's url eg: http://example.com."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4610
+msgid "Social Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4611
+msgid "social-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4625
+msgid "Select table style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4684
+msgid "Table HTML Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4690
+msgid "Table Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4705
+msgid "Select tabs' style."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4708
+msgid "Simple Style Justified"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4710
+msgid "Button Style Justified"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4712
+msgid "Normal Style Justified"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4713
+msgid "Vertical Style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4714
+msgid "Vertical Style Right"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4720
+msgid "Set color for tab item's title."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4735
+msgid "Tab Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4736
+msgid "tabs-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4744
+msgid "Tab Title"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4745
+msgid "Insert title for tab item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4749
+msgid "Tab Title Icon"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4754
+#: lib/magee-shortcodes-pro/inc/options.php:4756
+msgid "Tab Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4757
+msgid "Insert content for tab item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4776
+msgid ""
+"Select visible permissions.Private for author only. Members for logged-in "
+"users. Guests for users not logged in."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4778
+msgid "Private"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4779
+msgid "Members"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4780
+msgid "Guests"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4787
+msgid "Set content for targeted users."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4792
+msgid "Alternative Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4793
+msgid "Set content for other users."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4797
+msgid "Targeted Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4798
+msgid "targeted-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4812
+msgid "Style "
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4813
+msgid "Select testimonial's style"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4816
+msgid "Box"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4823
+msgid "Name of testimonial's author."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4829
+msgid "Byline of testimonial's author."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4834
+msgid "Avatar of testimonial's author."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4840
+msgid "Alignment"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4841
+msgid "Select the content's alignment."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4848
+#: lib/magee-shortcodes-pro/inc/options.php:4850
+msgid "Testimonial Content"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4851
+msgid "Insert content for testimonial."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4867
+msgid "Testimonial Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4868
+msgid "testimonial-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4884
+msgid "Number of items."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4887
+msgid "2 columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4888
+msgid "3 columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4889
+msgid "4 columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4890
+msgid "5 columns"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4908
+msgid "Timeline Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4909
+msgid "timeline-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4918
+msgid "Insert title for timeline item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4924
+msgid "Insert time for timeline item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4930
+msgid "Insert description for timeline item."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4952
+msgid "Tooltip Text"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4953
+msgid "Insert the text that displays in the tooltip"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4957
+msgid "Tooltip Position"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4958
+msgid "Choose the display position."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4968
+msgid "Tooltip Trigger"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4969
+msgid "Choose action to trigger the tooltip."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4979
+msgid "Insert the text that will activate the tooltip hover"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4995
+msgid "Tooltip Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:4996
+msgid "tooltip-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5012
+msgid "Mp4 Video Url"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5013
+msgid ""
+"Add the URL of video in MPEG4 format. WebM and MP4 format must be included "
+"to render your video with cross browser compatibility. OGV is optional."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5019
+msgid "Ogv Video Url"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5020
+msgid ""
+"Add the URL of video in OGV format. WebM and MP4 format must be included to "
+"render your video with cross browser compatibility. OGV is optional."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5026
+msgid "Webm Video Url"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5027
+msgid ""
+"Add the URL of video in webm format. WebM and MP4 format must be included to "
+"render your video with cross browser compatibility. OGV is optional."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5033
+msgid "Poster"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5034
+msgid "Display a image when browser does not support HTML5 format."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5100
+msgid "Video Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5101
+msgid "video-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5116
+msgid "Vimeo URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5182
+msgid "Vimeo Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5183
+msgid "vimeo-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5197
+msgid "Youtube URL"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5263
+msgid "Youtube Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5264
+msgid "youtube-shortcode/"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5279
+msgid "Choose widget name to show"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5286
+msgid "Set background color for widget area"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/options.php:5309
+msgid "Widget Area Shortcode"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/popup.php:29
+msgid "Preview"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/inc/popup.php:30
+msgid ""
+"Due to some external reasons, the preview is not shown exactly the same as "
+"reality."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:87
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:139
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:186
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:239
+msgid "Email address"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:94
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:95
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:145
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:146
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:192
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:193
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:248
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:251
+msgid "Subject"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:120
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:121
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:169
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:170
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:217
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:218
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:279
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:280
+#: woocommerce/single-product-reviews.php:50
+msgid "Submit"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-contact.php:290
+msgid "Please fill in all of the required fields"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-countdowns.php:58
+msgid "Days"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-countdowns.php:68
+msgid "Hours"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-countdowns.php:78
+msgid "Minutes"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-countdowns.php:88
+msgid "Seconds"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-google-map.php:307
+msgid "No location found for the entered address."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-google-map.php:309
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-google-map.php:311
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-google-map.php:315
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-portfolio.php:139
+msgid "All"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-pricing.php:74
+msgid "Buy Now"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-rss-feed.php:46
+msgid "No items"
+msgstr ""
+
+#: lib/magee-shortcodes-pro/shortcodes/class-rss-feed.php:51
+msgid "Posted "
+msgstr ""
+
+#: page.php:93 single.php:60
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search..."
+msgstr ""
+
+#: single-portfolio.php:124
+msgid "Related Project"
+msgstr ""
+
+#: single.php:78
+msgid "About the author"
+msgstr ""
+
+#: single.php:98
+msgid "Related Posts"
+msgstr ""
+
+#: taxonomy-portfolio-category.php:86
+msgid "Nothing found."
+msgstr ""
+
+#: woocommerce/config.php:190
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/config.php:388
+msgid "You have not viewed any product yet!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:28
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:40
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:40
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:41
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""
